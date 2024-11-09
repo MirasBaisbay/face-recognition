@@ -1,0 +1,6747 @@
+[
+    {
+        "anchor_idx": 0,
+        "negative_idx": 1286,
+        "distance": 0.9208770990371704
+    },
+    {
+        "anchor_idx": 1,
+        "negative_idx": 105,
+        "distance": 1.0170189142227173
+    },
+    {
+        "anchor_idx": 2,
+        "negative_idx": 1103,
+        "distance": 0.7041096687316895
+    },
+    {
+        "anchor_idx": 3,
+        "negative_idx": 598,
+        "distance": 0.9284998178482056
+    },
+    {
+        "anchor_idx": 4,
+        "negative_idx": 203,
+        "distance": 0.9011793732643127
+    },
+    {
+        "anchor_idx": 5,
+        "negative_idx": 255,
+        "distance": 0.6978554725646973
+    },
+    {
+        "anchor_idx": 6,
+        "negative_idx": 327,
+        "distance": 0.8029237389564514
+    },
+    {
+        "anchor_idx": 7,
+        "negative_idx": 106,
+        "distance": 0.8878766894340515
+    },
+    {
+        "anchor_idx": 8,
+        "negative_idx": 538,
+        "distance": 0.8402530550956726
+    },
+    {
+        "anchor_idx": 9,
+        "negative_idx": 538,
+        "distance": 0.9686151146888733
+    },
+    {
+        "anchor_idx": 10,
+        "negative_idx": 45,
+        "distance": 0.7535727024078369
+    },
+    {
+        "anchor_idx": 11,
+        "negative_idx": 1156,
+        "distance": 1.133432388305664
+    },
+    {
+        "anchor_idx": 12,
+        "negative_idx": 1252,
+        "distance": 0.7898375391960144
+    },
+    {
+        "anchor_idx": 13,
+        "negative_idx": 311,
+        "distance": 1.047505497932434
+    },
+    {
+        "anchor_idx": 14,
+        "negative_idx": 364,
+        "distance": 0.6955251693725586
+    },
+    {
+        "anchor_idx": 15,
+        "negative_idx": 335,
+        "distance": 0.8647937178611755
+    },
+    {
+        "anchor_idx": 16,
+        "negative_idx": 109,
+        "distance": 0.8540902137756348
+    },
+    {
+        "anchor_idx": 17,
+        "negative_idx": 327,
+        "distance": 0.8784192800521851
+    },
+    {
+        "anchor_idx": 18,
+        "negative_idx": 406,
+        "distance": 0.8111799359321594
+    },
+    {
+        "anchor_idx": 19,
+        "negative_idx": 1022,
+        "distance": 0.9302509427070618
+    },
+    {
+        "anchor_idx": 20,
+        "negative_idx": 331,
+        "distance": 0.8371586203575134
+    },
+    {
+        "anchor_idx": 21,
+        "negative_idx": 1130,
+        "distance": 1.1198396682739258
+    },
+    {
+        "anchor_idx": 22,
+        "negative_idx": 1252,
+        "distance": 0.7130725979804993
+    },
+    {
+        "anchor_idx": 23,
+        "negative_idx": 778,
+        "distance": 0.727209746837616
+    },
+    {
+        "anchor_idx": 24,
+        "negative_idx": 538,
+        "distance": 0.9547559022903442
+    },
+    {
+        "anchor_idx": 25,
+        "negative_idx": 364,
+        "distance": 0.8336469531059265
+    },
+    {
+        "anchor_idx": 26,
+        "negative_idx": 327,
+        "distance": 0.8445411920547485
+    },
+    {
+        "anchor_idx": 27,
+        "negative_idx": 364,
+        "distance": 0.7421595454216003
+    },
+    {
+        "anchor_idx": 28,
+        "negative_idx": 1146,
+        "distance": 0.7687535881996155
+    },
+    {
+        "anchor_idx": 29,
+        "negative_idx": 1252,
+        "distance": 0.7318339347839355
+    },
+    {
+        "anchor_idx": 30,
+        "negative_idx": 42,
+        "distance": 0.8571659326553345
+    },
+    {
+        "anchor_idx": 31,
+        "negative_idx": 277,
+        "distance": 0.8211621642112732
+    },
+    {
+        "anchor_idx": 32,
+        "negative_idx": 1148,
+        "distance": 1.0339739322662354
+    },
+    {
+        "anchor_idx": 33,
+        "negative_idx": 369,
+        "distance": 0.7976918816566467
+    },
+    {
+        "anchor_idx": 34,
+        "negative_idx": 776,
+        "distance": 0.7849295735359192
+    },
+    {
+        "anchor_idx": 35,
+        "negative_idx": 364,
+        "distance": 0.7465057969093323
+    },
+    {
+        "anchor_idx": 36,
+        "negative_idx": 57,
+        "distance": 0.7973886132240295
+    },
+    {
+        "anchor_idx": 37,
+        "negative_idx": 277,
+        "distance": 0.7166006565093994
+    },
+    {
+        "anchor_idx": 38,
+        "negative_idx": 1283,
+        "distance": 0.8263028860092163
+    },
+    {
+        "anchor_idx": 39,
+        "negative_idx": 985,
+        "distance": 1.1163748502731323
+    },
+    {
+        "anchor_idx": 40,
+        "negative_idx": 255,
+        "distance": 0.8174142241477966
+    },
+    {
+        "anchor_idx": 41,
+        "negative_idx": 897,
+        "distance": 0.878957986831665
+    },
+    {
+        "anchor_idx": 42,
+        "negative_idx": 14,
+        "distance": 0.7673978805541992
+    },
+    {
+        "anchor_idx": 43,
+        "negative_idx": 1312,
+        "distance": 0.8453931212425232
+    },
+    {
+        "anchor_idx": 44,
+        "negative_idx": 135,
+        "distance": 0.7796407341957092
+    },
+    {
+        "anchor_idx": 45,
+        "negative_idx": 10,
+        "distance": 0.7535723447799683
+    },
+    {
+        "anchor_idx": 46,
+        "negative_idx": 1175,
+        "distance": 0.9465100765228271
+    },
+    {
+        "anchor_idx": 47,
+        "negative_idx": 312,
+        "distance": 0.7600921392440796
+    },
+    {
+        "anchor_idx": 48,
+        "negative_idx": 601,
+        "distance": 0.717158854007721
+    },
+    {
+        "anchor_idx": 49,
+        "negative_idx": 523,
+        "distance": 0.6837730407714844
+    },
+    {
+        "anchor_idx": 50,
+        "negative_idx": 1148,
+        "distance": 1.035723090171814
+    },
+    {
+        "anchor_idx": 51,
+        "negative_idx": 170,
+        "distance": 1.084187626838684
+    },
+    {
+        "anchor_idx": 52,
+        "negative_idx": 898,
+        "distance": 1.079092025756836
+    },
+    {
+        "anchor_idx": 53,
+        "negative_idx": 646,
+        "distance": 0.9751430153846741
+    },
+    {
+        "anchor_idx": 54,
+        "negative_idx": 1084,
+        "distance": 0.8702515363693237
+    },
+    {
+        "anchor_idx": 55,
+        "negative_idx": 776,
+        "distance": 0.7755720615386963
+    },
+    {
+        "anchor_idx": 56,
+        "negative_idx": 832,
+        "distance": 0.9063090682029724
+    },
+    {
+        "anchor_idx": 57,
+        "negative_idx": 1022,
+        "distance": 0.750709056854248
+    },
+    {
+        "anchor_idx": 58,
+        "negative_idx": 783,
+        "distance": 0.7788163423538208
+    },
+    {
+        "anchor_idx": 59,
+        "negative_idx": 734,
+        "distance": 0.9960765242576599
+    },
+    {
+        "anchor_idx": 60,
+        "negative_idx": 536,
+        "distance": 0.7987162470817566
+    },
+    {
+        "anchor_idx": 61,
+        "negative_idx": 1103,
+        "distance": 0.7764582633972168
+    },
+    {
+        "anchor_idx": 62,
+        "negative_idx": 977,
+        "distance": 0.8467254042625427
+    },
+    {
+        "anchor_idx": 63,
+        "negative_idx": 2,
+        "distance": 0.7668552398681641
+    },
+    {
+        "anchor_idx": 64,
+        "negative_idx": 3,
+        "distance": 1.0145421028137207
+    },
+    {
+        "anchor_idx": 65,
+        "negative_idx": 364,
+        "distance": 1.0070148706436157
+    },
+    {
+        "anchor_idx": 66,
+        "negative_idx": 734,
+        "distance": 0.7088334560394287
+    },
+    {
+        "anchor_idx": 67,
+        "negative_idx": 977,
+        "distance": 0.9946449398994446
+    },
+    {
+        "anchor_idx": 68,
+        "negative_idx": 371,
+        "distance": 1.0460450649261475
+    },
+    {
+        "anchor_idx": 69,
+        "negative_idx": 237,
+        "distance": 0.8984391093254089
+    },
+    {
+        "anchor_idx": 70,
+        "negative_idx": 1263,
+        "distance": 0.8782554268836975
+    },
+    {
+        "anchor_idx": 71,
+        "negative_idx": 857,
+        "distance": 0.8833054900169373
+    },
+    {
+        "anchor_idx": 72,
+        "negative_idx": 132,
+        "distance": 0.8405942320823669
+    },
+    {
+        "anchor_idx": 73,
+        "negative_idx": 612,
+        "distance": 0.8988894820213318
+    },
+    {
+        "anchor_idx": 74,
+        "negative_idx": 275,
+        "distance": 0.8787629008293152
+    },
+    {
+        "anchor_idx": 75,
+        "negative_idx": 1328,
+        "distance": 0.9003964066505432
+    },
+    {
+        "anchor_idx": 76,
+        "negative_idx": 547,
+        "distance": 1.0692014694213867
+    },
+    {
+        "anchor_idx": 77,
+        "negative_idx": 513,
+        "distance": 0.9108304381370544
+    },
+    {
+        "anchor_idx": 78,
+        "negative_idx": 1172,
+        "distance": 0.85724276304245
+    },
+    {
+        "anchor_idx": 79,
+        "negative_idx": 1137,
+        "distance": 0.8326367735862732
+    },
+    {
+        "anchor_idx": 80,
+        "negative_idx": 1148,
+        "distance": 0.958173394203186
+    },
+    {
+        "anchor_idx": 81,
+        "negative_idx": 1233,
+        "distance": 0.7545458674430847
+    },
+    {
+        "anchor_idx": 82,
+        "negative_idx": 1322,
+        "distance": 0.8801339864730835
+    },
+    {
+        "anchor_idx": 83,
+        "negative_idx": 1148,
+        "distance": 0.9004836082458496
+    },
+    {
+        "anchor_idx": 84,
+        "negative_idx": 939,
+        "distance": 1.1181309223175049
+    },
+    {
+        "anchor_idx": 85,
+        "negative_idx": 295,
+        "distance": 0.8232656121253967
+    },
+    {
+        "anchor_idx": 86,
+        "negative_idx": 942,
+        "distance": 0.9795050024986267
+    },
+    {
+        "anchor_idx": 87,
+        "negative_idx": 713,
+        "distance": 0.9453808069229126
+    },
+    {
+        "anchor_idx": 88,
+        "negative_idx": 857,
+        "distance": 0.7466351389884949
+    },
+    {
+        "anchor_idx": 89,
+        "negative_idx": 132,
+        "distance": 0.859596848487854
+    },
+    {
+        "anchor_idx": 90,
+        "negative_idx": 376,
+        "distance": 0.8738917112350464
+    },
+    {
+        "anchor_idx": 91,
+        "negative_idx": 22,
+        "distance": 0.804663896560669
+    },
+    {
+        "anchor_idx": 92,
+        "negative_idx": 547,
+        "distance": 0.9681352376937866
+    },
+    {
+        "anchor_idx": 93,
+        "negative_idx": 1230,
+        "distance": 0.7840050458908081
+    },
+    {
+        "anchor_idx": 94,
+        "negative_idx": 377,
+        "distance": 0.9454325437545776
+    },
+    {
+        "anchor_idx": 95,
+        "negative_idx": 1056,
+        "distance": 0.9885771870613098
+    },
+    {
+        "anchor_idx": 96,
+        "negative_idx": 366,
+        "distance": 0.8660229444503784
+    },
+    {
+        "anchor_idx": 97,
+        "negative_idx": 683,
+        "distance": 1.014533281326294
+    },
+    {
+        "anchor_idx": 98,
+        "negative_idx": 1140,
+        "distance": 1.1071221828460693
+    },
+    {
+        "anchor_idx": 99,
+        "negative_idx": 1146,
+        "distance": 0.8671650290489197
+    },
+    {
+        "anchor_idx": 100,
+        "negative_idx": 547,
+        "distance": 0.8843685388565063
+    },
+    {
+        "anchor_idx": 101,
+        "negative_idx": 22,
+        "distance": 1.061547875404358
+    },
+    {
+        "anchor_idx": 102,
+        "negative_idx": 581,
+        "distance": 0.9647104144096375
+    },
+    {
+        "anchor_idx": 103,
+        "negative_idx": 1324,
+        "distance": 0.8582794666290283
+    },
+    {
+        "anchor_idx": 104,
+        "negative_idx": 376,
+        "distance": 0.8890211582183838
+    },
+    {
+        "anchor_idx": 105,
+        "negative_idx": 57,
+        "distance": 0.8154040575027466
+    },
+    {
+        "anchor_idx": 106,
+        "negative_idx": 1324,
+        "distance": 0.727234423160553
+    },
+    {
+        "anchor_idx": 107,
+        "negative_idx": 127,
+        "distance": 1.0467132329940796
+    },
+    {
+        "anchor_idx": 108,
+        "negative_idx": 487,
+        "distance": 1.0210522413253784
+    },
+    {
+        "anchor_idx": 109,
+        "negative_idx": 29,
+        "distance": 0.7529970407485962
+    },
+    {
+        "anchor_idx": 110,
+        "negative_idx": 372,
+        "distance": 0.8495019674301147
+    },
+    {
+        "anchor_idx": 111,
+        "negative_idx": 1119,
+        "distance": 1.4207446575164795
+    },
+    {
+        "anchor_idx": 112,
+        "negative_idx": 1328,
+        "distance": 1.0211917161941528
+    },
+    {
+        "anchor_idx": 113,
+        "negative_idx": 614,
+        "distance": 0.8732687830924988
+    },
+    {
+        "anchor_idx": 114,
+        "negative_idx": 964,
+        "distance": 0.89493727684021
+    },
+    {
+        "anchor_idx": 115,
+        "negative_idx": 781,
+        "distance": 0.9744527339935303
+    },
+    {
+        "anchor_idx": 116,
+        "negative_idx": 1341,
+        "distance": 0.7512807846069336
+    },
+    {
+        "anchor_idx": 117,
+        "negative_idx": 995,
+        "distance": 0.9669584035873413
+    },
+    {
+        "anchor_idx": 118,
+        "negative_idx": 428,
+        "distance": 0.8433095216751099
+    },
+    {
+        "anchor_idx": 119,
+        "negative_idx": 454,
+        "distance": 0.8777109980583191
+    },
+    {
+        "anchor_idx": 120,
+        "negative_idx": 742,
+        "distance": 0.8404488563537598
+    },
+    {
+        "anchor_idx": 121,
+        "negative_idx": 428,
+        "distance": 0.806259036064148
+    },
+    {
+        "anchor_idx": 122,
+        "negative_idx": 1141,
+        "distance": 0.81387859582901
+    },
+    {
+        "anchor_idx": 123,
+        "negative_idx": 408,
+        "distance": 0.8028500080108643
+    },
+    {
+        "anchor_idx": 124,
+        "negative_idx": 992,
+        "distance": 0.7560902833938599
+    },
+    {
+        "anchor_idx": 125,
+        "negative_idx": 1157,
+        "distance": 0.9201755523681641
+    },
+    {
+        "anchor_idx": 126,
+        "negative_idx": 1007,
+        "distance": 0.773608386516571
+    },
+    {
+        "anchor_idx": 127,
+        "negative_idx": 328,
+        "distance": 0.7772805094718933
+    },
+    {
+        "anchor_idx": 128,
+        "negative_idx": 1210,
+        "distance": 0.914401113986969
+    },
+    {
+        "anchor_idx": 129,
+        "negative_idx": 904,
+        "distance": 1.1542507410049438
+    },
+    {
+        "anchor_idx": 130,
+        "negative_idx": 1201,
+        "distance": 1.1549913883209229
+    },
+    {
+        "anchor_idx": 131,
+        "negative_idx": 1022,
+        "distance": 0.8550859689712524
+    },
+    {
+        "anchor_idx": 132,
+        "negative_idx": 614,
+        "distance": 0.7803226113319397
+    },
+    {
+        "anchor_idx": 133,
+        "negative_idx": 66,
+        "distance": 0.862085223197937
+    },
+    {
+        "anchor_idx": 134,
+        "negative_idx": 1324,
+        "distance": 0.7907668948173523
+    },
+    {
+        "anchor_idx": 135,
+        "negative_idx": 1281,
+        "distance": 0.742938220500946
+    },
+    {
+        "anchor_idx": 136,
+        "negative_idx": 770,
+        "distance": 0.8311491012573242
+    },
+    {
+        "anchor_idx": 137,
+        "negative_idx": 944,
+        "distance": 0.8305814266204834
+    },
+    {
+        "anchor_idx": 138,
+        "negative_idx": 61,
+        "distance": 0.7781010270118713
+    },
+    {
+        "anchor_idx": 139,
+        "negative_idx": 742,
+        "distance": 0.7900489568710327
+    },
+    {
+        "anchor_idx": 140,
+        "negative_idx": 365,
+        "distance": 0.8409193158149719
+    },
+    {
+        "anchor_idx": 141,
+        "negative_idx": 488,
+        "distance": 1.0061709880828857
+    },
+    {
+        "anchor_idx": 142,
+        "negative_idx": 1315,
+        "distance": 0.8416178822517395
+    },
+    {
+        "anchor_idx": 143,
+        "negative_idx": 482,
+        "distance": 1.0076278448104858
+    },
+    {
+        "anchor_idx": 144,
+        "negative_idx": 742,
+        "distance": 0.6648926734924316
+    },
+    {
+        "anchor_idx": 145,
+        "negative_idx": 669,
+        "distance": 0.8023937344551086
+    },
+    {
+        "anchor_idx": 146,
+        "negative_idx": 1281,
+        "distance": 0.7972111701965332
+    },
+    {
+        "anchor_idx": 147,
+        "negative_idx": 57,
+        "distance": 0.7859146595001221
+    },
+    {
+        "anchor_idx": 148,
+        "negative_idx": 1160,
+        "distance": 0.7551255822181702
+    },
+    {
+        "anchor_idx": 149,
+        "negative_idx": 1281,
+        "distance": 0.7140889167785645
+    },
+    {
+        "anchor_idx": 150,
+        "negative_idx": 873,
+        "distance": 0.9505279660224915
+    },
+    {
+        "anchor_idx": 151,
+        "negative_idx": 538,
+        "distance": 1.004164457321167
+    },
+    {
+        "anchor_idx": 152,
+        "negative_idx": 961,
+        "distance": 0.8429094552993774
+    },
+    {
+        "anchor_idx": 153,
+        "negative_idx": 1156,
+        "distance": 0.6882022023200989
+    },
+    {
+        "anchor_idx": 154,
+        "negative_idx": 467,
+        "distance": 0.7738478183746338
+    },
+    {
+        "anchor_idx": 155,
+        "negative_idx": 621,
+        "distance": 0.7052637934684753
+    },
+    {
+        "anchor_idx": 156,
+        "negative_idx": 578,
+        "distance": 0.7900009751319885
+    },
+    {
+        "anchor_idx": 157,
+        "negative_idx": 1220,
+        "distance": 0.8522505760192871
+    },
+    {
+        "anchor_idx": 158,
+        "negative_idx": 1143,
+        "distance": 0.7406405806541443
+    },
+    {
+        "anchor_idx": 159,
+        "negative_idx": 1022,
+        "distance": 0.7185784578323364
+    },
+    {
+        "anchor_idx": 160,
+        "negative_idx": 621,
+        "distance": 0.7797321677207947
+    },
+    {
+        "anchor_idx": 161,
+        "negative_idx": 626,
+        "distance": 0.784965455532074
+    },
+    {
+        "anchor_idx": 162,
+        "negative_idx": 405,
+        "distance": 0.9258937239646912
+    },
+    {
+        "anchor_idx": 163,
+        "negative_idx": 1230,
+        "distance": 0.8513407111167908
+    },
+    {
+        "anchor_idx": 164,
+        "negative_idx": 495,
+        "distance": 0.7326758503913879
+    },
+    {
+        "anchor_idx": 165,
+        "negative_idx": 740,
+        "distance": 0.747759222984314
+    },
+    {
+        "anchor_idx": 166,
+        "negative_idx": 639,
+        "distance": 0.7573409080505371
+    },
+    {
+        "anchor_idx": 167,
+        "negative_idx": 646,
+        "distance": 0.901824414730072
+    },
+    {
+        "anchor_idx": 168,
+        "negative_idx": 341,
+        "distance": 0.9089794158935547
+    },
+    {
+        "anchor_idx": 169,
+        "negative_idx": 744,
+        "distance": 0.878646194934845
+    },
+    {
+        "anchor_idx": 170,
+        "negative_idx": 626,
+        "distance": 0.7239773273468018
+    },
+    {
+        "anchor_idx": 171,
+        "negative_idx": 66,
+        "distance": 0.7959668636322021
+    },
+    {
+        "anchor_idx": 172,
+        "negative_idx": 670,
+        "distance": 1.0554921627044678
+    },
+    {
+        "anchor_idx": 173,
+        "negative_idx": 501,
+        "distance": 0.8870513439178467
+    },
+    {
+        "anchor_idx": 174,
+        "negative_idx": 737,
+        "distance": 0.8211984038352966
+    },
+    {
+        "anchor_idx": 175,
+        "negative_idx": 714,
+        "distance": 0.884014904499054
+    },
+    {
+        "anchor_idx": 176,
+        "negative_idx": 555,
+        "distance": 0.7451295852661133
+    },
+    {
+        "anchor_idx": 177,
+        "negative_idx": 1230,
+        "distance": 0.8614652156829834
+    },
+    {
+        "anchor_idx": 178,
+        "negative_idx": 1132,
+        "distance": 0.8115853667259216
+    },
+    {
+        "anchor_idx": 179,
+        "negative_idx": 531,
+        "distance": 0.8600159883499146
+    },
+    {
+        "anchor_idx": 180,
+        "negative_idx": 66,
+        "distance": 0.7405977845191956
+    },
+    {
+        "anchor_idx": 181,
+        "negative_idx": 307,
+        "distance": 0.9772275686264038
+    },
+    {
+        "anchor_idx": 182,
+        "negative_idx": 621,
+        "distance": 0.6948930621147156
+    },
+    {
+        "anchor_idx": 183,
+        "negative_idx": 263,
+        "distance": 0.8578521609306335
+    },
+    {
+        "anchor_idx": 184,
+        "negative_idx": 742,
+        "distance": 0.8245915174484253
+    },
+    {
+        "anchor_idx": 185,
+        "negative_idx": 965,
+        "distance": 0.8426552414894104
+    },
+    {
+        "anchor_idx": 186,
+        "negative_idx": 582,
+        "distance": 0.914728045463562
+    },
+    {
+        "anchor_idx": 187,
+        "negative_idx": 106,
+        "distance": 0.7779605984687805
+    },
+    {
+        "anchor_idx": 188,
+        "negative_idx": 965,
+        "distance": 0.7755281925201416
+    },
+    {
+        "anchor_idx": 189,
+        "negative_idx": 742,
+        "distance": 0.8290209770202637
+    },
+    {
+        "anchor_idx": 190,
+        "negative_idx": 1243,
+        "distance": 0.8716645836830139
+    },
+    {
+        "anchor_idx": 191,
+        "negative_idx": 538,
+        "distance": 1.0589739084243774
+    },
+    {
+        "anchor_idx": 192,
+        "negative_idx": 598,
+        "distance": 0.8506595492362976
+    },
+    {
+        "anchor_idx": 193,
+        "negative_idx": 578,
+        "distance": 0.7715842723846436
+    },
+    {
+        "anchor_idx": 194,
+        "negative_idx": 955,
+        "distance": 0.9557445645332336
+    },
+    {
+        "anchor_idx": 195,
+        "negative_idx": 762,
+        "distance": 0.7255023121833801
+    },
+    {
+        "anchor_idx": 196,
+        "negative_idx": 1143,
+        "distance": 0.7649439573287964
+    },
+    {
+        "anchor_idx": 197,
+        "negative_idx": 1274,
+        "distance": 0.732488751411438
+    },
+    {
+        "anchor_idx": 198,
+        "negative_idx": 1022,
+        "distance": 0.7233186960220337
+    },
+    {
+        "anchor_idx": 199,
+        "negative_idx": 944,
+        "distance": 0.7579240202903748
+    },
+    {
+        "anchor_idx": 200,
+        "negative_idx": 742,
+        "distance": 0.7353176474571228
+    },
+    {
+        "anchor_idx": 201,
+        "negative_idx": 371,
+        "distance": 0.8467806577682495
+    },
+    {
+        "anchor_idx": 202,
+        "negative_idx": 1175,
+        "distance": 0.8590852618217468
+    },
+    {
+        "anchor_idx": 203,
+        "negative_idx": 740,
+        "distance": 0.6609772443771362
+    },
+    {
+        "anchor_idx": 204,
+        "negative_idx": 1022,
+        "distance": 0.7301965951919556
+    },
+    {
+        "anchor_idx": 205,
+        "negative_idx": 659,
+        "distance": 0.8671412467956543
+    },
+    {
+        "anchor_idx": 206,
+        "negative_idx": 902,
+        "distance": 0.8277231454849243
+    },
+    {
+        "anchor_idx": 207,
+        "negative_idx": 468,
+        "distance": 1.0404808521270752
+    },
+    {
+        "anchor_idx": 208,
+        "negative_idx": 930,
+        "distance": 1.0590543746948242
+    },
+    {
+        "anchor_idx": 209,
+        "negative_idx": 1022,
+        "distance": 0.6233910322189331
+    },
+    {
+        "anchor_idx": 210,
+        "negative_idx": 473,
+        "distance": 0.8575833439826965
+    },
+    {
+        "anchor_idx": 211,
+        "negative_idx": 752,
+        "distance": 0.7573779225349426
+    },
+    {
+        "anchor_idx": 212,
+        "negative_idx": 752,
+        "distance": 0.7876644134521484
+    },
+    {
+        "anchor_idx": 213,
+        "negative_idx": 1022,
+        "distance": 0.7860628962516785
+    },
+    {
+        "anchor_idx": 214,
+        "negative_idx": 1007,
+        "distance": 0.7983091473579407
+    },
+    {
+        "anchor_idx": 215,
+        "negative_idx": 620,
+        "distance": 0.8693109154701233
+    },
+    {
+        "anchor_idx": 216,
+        "negative_idx": 1245,
+        "distance": 0.9464232325553894
+    },
+    {
+        "anchor_idx": 217,
+        "negative_idx": 581,
+        "distance": 0.9234620332717896
+    },
+    {
+        "anchor_idx": 218,
+        "negative_idx": 479,
+        "distance": 0.8891980648040771
+    },
+    {
+        "anchor_idx": 219,
+        "negative_idx": 1156,
+        "distance": 0.7585415840148926
+    },
+    {
+        "anchor_idx": 220,
+        "negative_idx": 508,
+        "distance": 0.8169766664505005
+    },
+    {
+        "anchor_idx": 221,
+        "negative_idx": 1007,
+        "distance": 0.7946828007698059
+    },
+    {
+        "anchor_idx": 222,
+        "negative_idx": 620,
+        "distance": 1.0690827369689941
+    },
+    {
+        "anchor_idx": 223,
+        "negative_idx": 741,
+        "distance": 0.8204918503761292
+    },
+    {
+        "anchor_idx": 224,
+        "negative_idx": 1156,
+        "distance": 0.7607687711715698
+    },
+    {
+        "anchor_idx": 225,
+        "negative_idx": 1341,
+        "distance": 0.865253746509552
+    },
+    {
+        "anchor_idx": 226,
+        "negative_idx": 742,
+        "distance": 0.7559937834739685
+    },
+    {
+        "anchor_idx": 227,
+        "negative_idx": 1233,
+        "distance": 0.8131463527679443
+    },
+    {
+        "anchor_idx": 228,
+        "negative_idx": 781,
+        "distance": 0.8363943696022034
+    },
+    {
+        "anchor_idx": 229,
+        "negative_idx": 621,
+        "distance": 0.7129185795783997
+    },
+    {
+        "anchor_idx": 230,
+        "negative_idx": 1129,
+        "distance": 0.9001376628875732
+    },
+    {
+        "anchor_idx": 231,
+        "negative_idx": 330,
+        "distance": 0.9390069246292114
+    },
+    {
+        "anchor_idx": 232,
+        "negative_idx": 1022,
+        "distance": 0.7552829384803772
+    },
+    {
+        "anchor_idx": 233,
+        "negative_idx": 742,
+        "distance": 0.7429405450820923
+    },
+    {
+        "anchor_idx": 234,
+        "negative_idx": 742,
+        "distance": 0.72284334897995
+    },
+    {
+        "anchor_idx": 235,
+        "negative_idx": 1233,
+        "distance": 0.9074257612228394
+    },
+    {
+        "anchor_idx": 236,
+        "negative_idx": 576,
+        "distance": 1.0317877531051636
+    },
+    {
+        "anchor_idx": 237,
+        "negative_idx": 182,
+        "distance": 0.7743969559669495
+    },
+    {
+        "anchor_idx": 238,
+        "negative_idx": 66,
+        "distance": 0.7421660423278809
+    },
+    {
+        "anchor_idx": 239,
+        "negative_idx": 961,
+        "distance": 0.738175094127655
+    },
+    {
+        "anchor_idx": 240,
+        "negative_idx": 90,
+        "distance": 0.901522696018219
+    },
+    {
+        "anchor_idx": 241,
+        "negative_idx": 762,
+        "distance": 0.8891608119010925
+    },
+    {
+        "anchor_idx": 242,
+        "negative_idx": 354,
+        "distance": 0.7834506630897522
+    },
+    {
+        "anchor_idx": 243,
+        "negative_idx": 392,
+        "distance": 0.8376626968383789
+    },
+    {
+        "anchor_idx": 244,
+        "negative_idx": 346,
+        "distance": 0.918908953666687
+    },
+    {
+        "anchor_idx": 245,
+        "negative_idx": 215,
+        "distance": 0.920102059841156
+    },
+    {
+        "anchor_idx": 246,
+        "negative_idx": 927,
+        "distance": 0.8025298118591309
+    },
+    {
+        "anchor_idx": 247,
+        "negative_idx": 169,
+        "distance": 0.9438255429267883
+    },
+    {
+        "anchor_idx": 248,
+        "negative_idx": 740,
+        "distance": 0.8765942454338074
+    },
+    {
+        "anchor_idx": 249,
+        "negative_idx": 182,
+        "distance": 0.8542152047157288
+    },
+    {
+        "anchor_idx": 250,
+        "negative_idx": 570,
+        "distance": 1.0492836236953735
+    },
+    {
+        "anchor_idx": 251,
+        "negative_idx": 1121,
+        "distance": 0.835176944732666
+    },
+    {
+        "anchor_idx": 252,
+        "negative_idx": 733,
+        "distance": 0.9758858680725098
+    },
+    {
+        "anchor_idx": 253,
+        "negative_idx": 319,
+        "distance": 0.9624090194702148
+    },
+    {
+        "anchor_idx": 254,
+        "negative_idx": 979,
+        "distance": 1.0534231662750244
+    },
+    {
+        "anchor_idx": 255,
+        "negative_idx": 5,
+        "distance": 0.6978592872619629
+    },
+    {
+        "anchor_idx": 256,
+        "negative_idx": 48,
+        "distance": 0.7199406623840332
+    },
+    {
+        "anchor_idx": 257,
+        "negative_idx": 329,
+        "distance": 0.7765517830848694
+    },
+    {
+        "anchor_idx": 258,
+        "negative_idx": 985,
+        "distance": 0.8305248022079468
+    },
+    {
+        "anchor_idx": 259,
+        "negative_idx": 121,
+        "distance": 1.0101919174194336
+    },
+    {
+        "anchor_idx": 260,
+        "negative_idx": 180,
+        "distance": 1.033697247505188
+    },
+    {
+        "anchor_idx": 261,
+        "negative_idx": 1132,
+        "distance": 0.9269469976425171
+    },
+    {
+        "anchor_idx": 262,
+        "negative_idx": 708,
+        "distance": 0.8748463988304138
+    },
+    {
+        "anchor_idx": 263,
+        "negative_idx": 681,
+        "distance": 0.8334137797355652
+    },
+    {
+        "anchor_idx": 264,
+        "negative_idx": 1300,
+        "distance": 0.7913535237312317
+    },
+    {
+        "anchor_idx": 265,
+        "negative_idx": 642,
+        "distance": 1.1338965892791748
+    },
+    {
+        "anchor_idx": 266,
+        "negative_idx": 478,
+        "distance": 0.8874955773353577
+    },
+    {
+        "anchor_idx": 267,
+        "negative_idx": 1132,
+        "distance": 1.2609935998916626
+    },
+    {
+        "anchor_idx": 268,
+        "negative_idx": 1294,
+        "distance": 0.9954636096954346
+    },
+    {
+        "anchor_idx": 269,
+        "negative_idx": 1238,
+        "distance": 0.9164056181907654
+    },
+    {
+        "anchor_idx": 270,
+        "negative_idx": 1231,
+        "distance": 0.6833981871604919
+    },
+    {
+        "anchor_idx": 271,
+        "negative_idx": 147,
+        "distance": 0.8168607354164124
+    },
+    {
+        "anchor_idx": 272,
+        "negative_idx": 436,
+        "distance": 0.9965758919715881
+    },
+    {
+        "anchor_idx": 273,
+        "negative_idx": 246,
+        "distance": 0.8081493377685547
+    },
+    {
+        "anchor_idx": 274,
+        "negative_idx": 365,
+        "distance": 0.7512303590774536
+    },
+    {
+        "anchor_idx": 275,
+        "negative_idx": 1175,
+        "distance": 0.8680877089500427
+    },
+    {
+        "anchor_idx": 276,
+        "negative_idx": 554,
+        "distance": 0.8693723082542419
+    },
+    {
+        "anchor_idx": 277,
+        "negative_idx": 37,
+        "distance": 0.7165971398353577
+    },
+    {
+        "anchor_idx": 278,
+        "negative_idx": 842,
+        "distance": 0.8225191235542297
+    },
+    {
+        "anchor_idx": 279,
+        "negative_idx": 910,
+        "distance": 1.162465214729309
+    },
+    {
+        "anchor_idx": 280,
+        "negative_idx": 182,
+        "distance": 0.8918843269348145
+    },
+    {
+        "anchor_idx": 281,
+        "negative_idx": 890,
+        "distance": 0.7703512907028198
+    },
+    {
+        "anchor_idx": 282,
+        "negative_idx": 1282,
+        "distance": 0.821062445640564
+    },
+    {
+        "anchor_idx": 283,
+        "negative_idx": 1335,
+        "distance": 1.0074892044067383
+    },
+    {
+        "anchor_idx": 284,
+        "negative_idx": 1341,
+        "distance": 0.9529616832733154
+    },
+    {
+        "anchor_idx": 285,
+        "negative_idx": 890,
+        "distance": 0.9696687459945679
+    },
+    {
+        "anchor_idx": 286,
+        "negative_idx": 775,
+        "distance": 0.8721548318862915
+    },
+    {
+        "anchor_idx": 287,
+        "negative_idx": 1148,
+        "distance": 0.9257277846336365
+    },
+    {
+        "anchor_idx": 288,
+        "negative_idx": 14,
+        "distance": 0.8870856761932373
+    },
+    {
+        "anchor_idx": 289,
+        "negative_idx": 96,
+        "distance": 0.9727563858032227
+    },
+    {
+        "anchor_idx": 290,
+        "negative_idx": 196,
+        "distance": 0.9435149431228638
+    },
+    {
+        "anchor_idx": 291,
+        "negative_idx": 29,
+        "distance": 0.8187998533248901
+    },
+    {
+        "anchor_idx": 292,
+        "negative_idx": 697,
+        "distance": 0.804670512676239
+    },
+    {
+        "anchor_idx": 293,
+        "negative_idx": 1318,
+        "distance": 0.9990159273147583
+    },
+    {
+        "anchor_idx": 294,
+        "negative_idx": 775,
+        "distance": 0.940814733505249
+    },
+    {
+        "anchor_idx": 295,
+        "negative_idx": 85,
+        "distance": 0.8232709169387817
+    },
+    {
+        "anchor_idx": 296,
+        "negative_idx": 538,
+        "distance": 0.9022688865661621
+    },
+    {
+        "anchor_idx": 297,
+        "negative_idx": 1335,
+        "distance": 1.0229326486587524
+    },
+    {
+        "anchor_idx": 298,
+        "negative_idx": 989,
+        "distance": 0.9422196745872498
+    },
+    {
+        "anchor_idx": 299,
+        "negative_idx": 1318,
+        "distance": 0.9438098073005676
+    },
+    {
+        "anchor_idx": 300,
+        "negative_idx": 1335,
+        "distance": 0.7363064289093018
+    },
+    {
+        "anchor_idx": 301,
+        "negative_idx": 948,
+        "distance": 1.0155795812606812
+    },
+    {
+        "anchor_idx": 302,
+        "negative_idx": 775,
+        "distance": 0.9871640801429749
+    },
+    {
+        "anchor_idx": 303,
+        "negative_idx": 14,
+        "distance": 0.7928934097290039
+    },
+    {
+        "anchor_idx": 304,
+        "negative_idx": 890,
+        "distance": 0.9473704695701599
+    },
+    {
+        "anchor_idx": 305,
+        "negative_idx": 942,
+        "distance": 0.9004725813865662
+    },
+    {
+        "anchor_idx": 306,
+        "negative_idx": 1180,
+        "distance": 1.027351975440979
+    },
+    {
+        "anchor_idx": 307,
+        "negative_idx": 579,
+        "distance": 0.882164478302002
+    },
+    {
+        "anchor_idx": 308,
+        "negative_idx": 184,
+        "distance": 1.0579512119293213
+    },
+    {
+        "anchor_idx": 309,
+        "negative_idx": 538,
+        "distance": 0.8514463901519775
+    },
+    {
+        "anchor_idx": 310,
+        "negative_idx": 295,
+        "distance": 0.8272533416748047
+    },
+    {
+        "anchor_idx": 311,
+        "negative_idx": 388,
+        "distance": 0.8563651442527771
+    },
+    {
+        "anchor_idx": 312,
+        "negative_idx": 47,
+        "distance": 0.7600931525230408
+    },
+    {
+        "anchor_idx": 313,
+        "negative_idx": 857,
+        "distance": 0.8637039661407471
+    },
+    {
+        "anchor_idx": 314,
+        "negative_idx": 528,
+        "distance": 0.868740439414978
+    },
+    {
+        "anchor_idx": 315,
+        "negative_idx": 547,
+        "distance": 0.9007417559623718
+    },
+    {
+        "anchor_idx": 316,
+        "negative_idx": 169,
+        "distance": 1.1373934745788574
+    },
+    {
+        "anchor_idx": 317,
+        "negative_idx": 169,
+        "distance": 0.9319332242012024
+    },
+    {
+        "anchor_idx": 318,
+        "negative_idx": 547,
+        "distance": 1.2190643548965454
+    },
+    {
+        "anchor_idx": 319,
+        "negative_idx": 253,
+        "distance": 0.9624139070510864
+    },
+    {
+        "anchor_idx": 320,
+        "negative_idx": 603,
+        "distance": 0.8794889450073242
+    },
+    {
+        "anchor_idx": 321,
+        "negative_idx": 534,
+        "distance": 0.9298045039176941
+    },
+    {
+        "anchor_idx": 322,
+        "negative_idx": 1228,
+        "distance": 0.9889370799064636
+    },
+    {
+        "anchor_idx": 323,
+        "negative_idx": 1228,
+        "distance": 1.1272926330566406
+    },
+    {
+        "anchor_idx": 324,
+        "negative_idx": 778,
+        "distance": 0.8594240546226501
+    },
+    {
+        "anchor_idx": 325,
+        "negative_idx": 5,
+        "distance": 0.7779730558395386
+    },
+    {
+        "anchor_idx": 326,
+        "negative_idx": 10,
+        "distance": 0.9720451831817627
+    },
+    {
+        "anchor_idx": 327,
+        "negative_idx": 14,
+        "distance": 0.7779800295829773
+    },
+    {
+        "anchor_idx": 328,
+        "negative_idx": 127,
+        "distance": 0.7772827744483948
+    },
+    {
+        "anchor_idx": 329,
+        "negative_idx": 14,
+        "distance": 0.76584792137146
+    },
+    {
+        "anchor_idx": 330,
+        "negative_idx": 81,
+        "distance": 0.7869319319725037
+    },
+    {
+        "anchor_idx": 331,
+        "negative_idx": 538,
+        "distance": 0.7936916351318359
+    },
+    {
+        "anchor_idx": 332,
+        "negative_idx": 978,
+        "distance": 1.123716115951538
+    },
+    {
+        "anchor_idx": 333,
+        "negative_idx": 977,
+        "distance": 0.8077619671821594
+    },
+    {
+        "anchor_idx": 334,
+        "negative_idx": 853,
+        "distance": 1.0519897937774658
+    },
+    {
+        "anchor_idx": 335,
+        "negative_idx": 816,
+        "distance": 0.7348940372467041
+    },
+    {
+        "anchor_idx": 336,
+        "negative_idx": 66,
+        "distance": 0.8418213129043579
+    },
+    {
+        "anchor_idx": 337,
+        "negative_idx": 1180,
+        "distance": 0.9460628032684326
+    },
+    {
+        "anchor_idx": 338,
+        "negative_idx": 1113,
+        "distance": 0.7818284630775452
+    },
+    {
+        "anchor_idx": 339,
+        "negative_idx": 1271,
+        "distance": 1.102038025856018
+    },
+    {
+        "anchor_idx": 340,
+        "negative_idx": 729,
+        "distance": 1.2575595378875732
+    },
+    {
+        "anchor_idx": 341,
+        "negative_idx": 963,
+        "distance": 0.8099991083145142
+    },
+    {
+        "anchor_idx": 342,
+        "negative_idx": 1106,
+        "distance": 0.8531864881515503
+    },
+    {
+        "anchor_idx": 343,
+        "negative_idx": 200,
+        "distance": 0.9625784754753113
+    },
+    {
+        "anchor_idx": 344,
+        "negative_idx": 142,
+        "distance": 0.9894785284996033
+    },
+    {
+        "anchor_idx": 345,
+        "negative_idx": 1022,
+        "distance": 0.8381330370903015
+    },
+    {
+        "anchor_idx": 346,
+        "negative_idx": 740,
+        "distance": 0.7378890514373779
+    },
+    {
+        "anchor_idx": 347,
+        "negative_idx": 240,
+        "distance": 0.9849668741226196
+    },
+    {
+        "anchor_idx": 348,
+        "negative_idx": 1244,
+        "distance": 0.8770185708999634
+    },
+    {
+        "anchor_idx": 349,
+        "negative_idx": 638,
+        "distance": 0.9263589978218079
+    },
+    {
+        "anchor_idx": 350,
+        "negative_idx": 932,
+        "distance": 0.8000128865242004
+    },
+    {
+        "anchor_idx": 351,
+        "negative_idx": 136,
+        "distance": 0.9245796799659729
+    },
+    {
+        "anchor_idx": 352,
+        "negative_idx": 1335,
+        "distance": 1.08944571018219
+    },
+    {
+        "anchor_idx": 353,
+        "negative_idx": 900,
+        "distance": 0.8374369144439697
+    },
+    {
+        "anchor_idx": 354,
+        "negative_idx": 1233,
+        "distance": 0.745161771774292
+    },
+    {
+        "anchor_idx": 355,
+        "negative_idx": 400,
+        "distance": 1.05692720413208
+    },
+    {
+        "anchor_idx": 356,
+        "negative_idx": 255,
+        "distance": 0.7920321822166443
+    },
+    {
+        "anchor_idx": 357,
+        "negative_idx": 798,
+        "distance": 1.0532740354537964
+    },
+    {
+        "anchor_idx": 358,
+        "negative_idx": 740,
+        "distance": 0.7771273851394653
+    },
+    {
+        "anchor_idx": 359,
+        "negative_idx": 1263,
+        "distance": 0.8631380200386047
+    },
+    {
+        "anchor_idx": 360,
+        "negative_idx": 203,
+        "distance": 0.8069350123405457
+    },
+    {
+        "anchor_idx": 361,
+        "negative_idx": 495,
+        "distance": 0.9088554382324219
+    },
+    {
+        "anchor_idx": 362,
+        "negative_idx": 135,
+        "distance": 0.7964624762535095
+    },
+    {
+        "anchor_idx": 363,
+        "negative_idx": 763,
+        "distance": 0.7097547650337219
+    },
+    {
+        "anchor_idx": 364,
+        "negative_idx": 14,
+        "distance": 0.695524275302887
+    },
+    {
+        "anchor_idx": 365,
+        "negative_idx": 203,
+        "distance": 0.7371079325675964
+    },
+    {
+        "anchor_idx": 366,
+        "negative_idx": 96,
+        "distance": 0.8660171627998352
+    },
+    {
+        "anchor_idx": 367,
+        "negative_idx": 740,
+        "distance": 0.9937832355499268
+    },
+    {
+        "anchor_idx": 368,
+        "negative_idx": 408,
+        "distance": 0.9734113812446594
+    },
+    {
+        "anchor_idx": 369,
+        "negative_idx": 33,
+        "distance": 0.7976942658424377
+    },
+    {
+        "anchor_idx": 370,
+        "negative_idx": 204,
+        "distance": 0.8895429372787476
+    },
+    {
+        "anchor_idx": 371,
+        "negative_idx": 155,
+        "distance": 0.787112295627594
+    },
+    {
+        "anchor_idx": 372,
+        "negative_idx": 110,
+        "distance": 0.8495021462440491
+    },
+    {
+        "anchor_idx": 373,
+        "negative_idx": 93,
+        "distance": 0.959652304649353
+    },
+    {
+        "anchor_idx": 374,
+        "negative_idx": 263,
+        "distance": 1.01558256149292
+    },
+    {
+        "anchor_idx": 375,
+        "negative_idx": 1181,
+        "distance": 0.7520644664764404
+    },
+    {
+        "anchor_idx": 376,
+        "negative_idx": 106,
+        "distance": 0.7740049362182617
+    },
+    {
+        "anchor_idx": 377,
+        "negative_idx": 547,
+        "distance": 0.8455105423927307
+    },
+    {
+        "anchor_idx": 378,
+        "negative_idx": 686,
+        "distance": 0.9567146897315979
+    },
+    {
+        "anchor_idx": 379,
+        "negative_idx": 1326,
+        "distance": 1.1694501638412476
+    },
+    {
+        "anchor_idx": 380,
+        "negative_idx": 874,
+        "distance": 0.9167150259017944
+    },
+    {
+        "anchor_idx": 381,
+        "negative_idx": 133,
+        "distance": 0.9360228776931763
+    },
+    {
+        "anchor_idx": 382,
+        "negative_idx": 874,
+        "distance": 0.9091852307319641
+    },
+    {
+        "anchor_idx": 383,
+        "negative_idx": 1280,
+        "distance": 0.9848356246948242
+    },
+    {
+        "anchor_idx": 384,
+        "negative_idx": 1264,
+        "distance": 0.9038798213005066
+    },
+    {
+        "anchor_idx": 385,
+        "negative_idx": 537,
+        "distance": 1.0785294771194458
+    },
+    {
+        "anchor_idx": 386,
+        "negative_idx": 594,
+        "distance": 0.8416198492050171
+    },
+    {
+        "anchor_idx": 387,
+        "negative_idx": 1312,
+        "distance": 0.7399884462356567
+    },
+    {
+        "anchor_idx": 388,
+        "negative_idx": 833,
+        "distance": 0.7831804752349854
+    },
+    {
+        "anchor_idx": 389,
+        "negative_idx": 661,
+        "distance": 0.7936413288116455
+    },
+    {
+        "anchor_idx": 390,
+        "negative_idx": 762,
+        "distance": 0.8514640927314758
+    },
+    {
+        "anchor_idx": 391,
+        "negative_idx": 713,
+        "distance": 0.9343006610870361
+    },
+    {
+        "anchor_idx": 392,
+        "negative_idx": 350,
+        "distance": 0.8321970701217651
+    },
+    {
+        "anchor_idx": 393,
+        "negative_idx": 740,
+        "distance": 0.7240708470344543
+    },
+    {
+        "anchor_idx": 394,
+        "negative_idx": 478,
+        "distance": 0.9859229922294617
+    },
+    {
+        "anchor_idx": 395,
+        "negative_idx": 238,
+        "distance": 0.8926462531089783
+    },
+    {
+        "anchor_idx": 396,
+        "negative_idx": 169,
+        "distance": 0.9535759091377258
+    },
+    {
+        "anchor_idx": 397,
+        "negative_idx": 378,
+        "distance": 1.064915657043457
+    },
+    {
+        "anchor_idx": 398,
+        "negative_idx": 1089,
+        "distance": 0.9890857338905334
+    },
+    {
+        "anchor_idx": 399,
+        "negative_idx": 982,
+        "distance": 1.0144429206848145
+    },
+    {
+        "anchor_idx": 400,
+        "negative_idx": 1264,
+        "distance": 0.8942316174507141
+    },
+    {
+        "anchor_idx": 401,
+        "negative_idx": 106,
+        "distance": 0.9101173877716064
+    },
+    {
+        "anchor_idx": 402,
+        "negative_idx": 637,
+        "distance": 1.0298314094543457
+    },
+    {
+        "anchor_idx": 403,
+        "negative_idx": 1142,
+        "distance": 0.9618810415267944
+    },
+    {
+        "anchor_idx": 404,
+        "negative_idx": 1324,
+        "distance": 0.8906144499778748
+    },
+    {
+        "anchor_idx": 405,
+        "negative_idx": 1109,
+        "distance": 0.8097139000892639
+    },
+    {
+        "anchor_idx": 406,
+        "negative_idx": 364,
+        "distance": 0.7448821067810059
+    },
+    {
+        "anchor_idx": 407,
+        "negative_idx": 91,
+        "distance": 0.8890335559844971
+    },
+    {
+        "anchor_idx": 408,
+        "negative_idx": 123,
+        "distance": 0.8028571009635925
+    },
+    {
+        "anchor_idx": 409,
+        "negative_idx": 558,
+        "distance": 1.010587453842163
+    },
+    {
+        "anchor_idx": 410,
+        "negative_idx": 912,
+        "distance": 0.7430301308631897
+    },
+    {
+        "anchor_idx": 411,
+        "negative_idx": 511,
+        "distance": 0.8584083914756775
+    },
+    {
+        "anchor_idx": 412,
+        "negative_idx": 589,
+        "distance": 0.9421518445014954
+    },
+    {
+        "anchor_idx": 413,
+        "negative_idx": 914,
+        "distance": 0.9948820471763611
+    },
+    {
+        "anchor_idx": 414,
+        "negative_idx": 1241,
+        "distance": 0.9159765839576721
+    },
+    {
+        "anchor_idx": 415,
+        "negative_idx": 914,
+        "distance": 1.0167611837387085
+    },
+    {
+        "anchor_idx": 416,
+        "negative_idx": 589,
+        "distance": 0.7584426999092102
+    },
+    {
+        "anchor_idx": 417,
+        "negative_idx": 589,
+        "distance": 0.7594940066337585
+    },
+    {
+        "anchor_idx": 418,
+        "negative_idx": 658,
+        "distance": 0.9833199977874756
+    },
+    {
+        "anchor_idx": 419,
+        "negative_idx": 959,
+        "distance": 0.7743396162986755
+    },
+    {
+        "anchor_idx": 420,
+        "negative_idx": 570,
+        "distance": 0.9294854998588562
+    },
+    {
+        "anchor_idx": 421,
+        "negative_idx": 66,
+        "distance": 1.0148820877075195
+    },
+    {
+        "anchor_idx": 422,
+        "negative_idx": 184,
+        "distance": 0.9949485063552856
+    },
+    {
+        "anchor_idx": 423,
+        "negative_idx": 1201,
+        "distance": 0.796705424785614
+    },
+    {
+        "anchor_idx": 424,
+        "negative_idx": 1126,
+        "distance": 1.1106617450714111
+    },
+    {
+        "anchor_idx": 425,
+        "negative_idx": 1126,
+        "distance": 0.946001410484314
+    },
+    {
+        "anchor_idx": 426,
+        "negative_idx": 1133,
+        "distance": 1.037376880645752
+    },
+    {
+        "anchor_idx": 427,
+        "negative_idx": 880,
+        "distance": 0.7955217957496643
+    },
+    {
+        "anchor_idx": 428,
+        "negative_idx": 121,
+        "distance": 0.8062558770179749
+    },
+    {
+        "anchor_idx": 429,
+        "negative_idx": 742,
+        "distance": 0.737616777420044
+    },
+    {
+        "anchor_idx": 430,
+        "negative_idx": 1212,
+        "distance": 0.8656726479530334
+    },
+    {
+        "anchor_idx": 431,
+        "negative_idx": 555,
+        "distance": 0.9778791069984436
+    },
+    {
+        "anchor_idx": 432,
+        "negative_idx": 555,
+        "distance": 1.002789855003357
+    },
+    {
+        "anchor_idx": 433,
+        "negative_idx": 970,
+        "distance": 0.9961673021316528
+    },
+    {
+        "anchor_idx": 434,
+        "negative_idx": 218,
+        "distance": 0.930860161781311
+    },
+    {
+        "anchor_idx": 435,
+        "negative_idx": 180,
+        "distance": 0.9113185405731201
+    },
+    {
+        "anchor_idx": 436,
+        "negative_idx": 1255,
+        "distance": 0.9681554436683655
+    },
+    {
+        "anchor_idx": 437,
+        "negative_idx": 205,
+        "distance": 0.9151912331581116
+    },
+    {
+        "anchor_idx": 438,
+        "negative_idx": 121,
+        "distance": 0.975597620010376
+    },
+    {
+        "anchor_idx": 439,
+        "negative_idx": 589,
+        "distance": 0.8854126930236816
+    },
+    {
+        "anchor_idx": 440,
+        "negative_idx": 617,
+        "distance": 1.0075228214263916
+    },
+    {
+        "anchor_idx": 441,
+        "negative_idx": 1306,
+        "distance": 0.900072455406189
+    },
+    {
+        "anchor_idx": 442,
+        "negative_idx": 940,
+        "distance": 0.8732678890228271
+    },
+    {
+        "anchor_idx": 443,
+        "negative_idx": 547,
+        "distance": 0.9804690480232239
+    },
+    {
+        "anchor_idx": 444,
+        "negative_idx": 883,
+        "distance": 0.8005428314208984
+    },
+    {
+        "anchor_idx": 445,
+        "negative_idx": 718,
+        "distance": 0.8697982430458069
+    },
+    {
+        "anchor_idx": 446,
+        "negative_idx": 578,
+        "distance": 0.8518167734146118
+    },
+    {
+        "anchor_idx": 447,
+        "negative_idx": 124,
+        "distance": 0.9772027134895325
+    },
+    {
+        "anchor_idx": 448,
+        "negative_idx": 1208,
+        "distance": 0.8609355688095093
+    },
+    {
+        "anchor_idx": 449,
+        "negative_idx": 124,
+        "distance": 0.8923642635345459
+    },
+    {
+        "anchor_idx": 450,
+        "negative_idx": 118,
+        "distance": 1.0414459705352783
+    },
+    {
+        "anchor_idx": 451,
+        "negative_idx": 164,
+        "distance": 0.8394778370857239
+    },
+    {
+        "anchor_idx": 452,
+        "negative_idx": 1144,
+        "distance": 0.9257241487503052
+    },
+    {
+        "anchor_idx": 453,
+        "negative_idx": 182,
+        "distance": 0.7701135873794556
+    },
+    {
+        "anchor_idx": 454,
+        "negative_idx": 959,
+        "distance": 0.8039820194244385
+    },
+    {
+        "anchor_idx": 455,
+        "negative_idx": 118,
+        "distance": 0.9077478647232056
+    },
+    {
+        "anchor_idx": 456,
+        "negative_idx": 393,
+        "distance": 0.812466561794281
+    },
+    {
+        "anchor_idx": 457,
+        "negative_idx": 1253,
+        "distance": 0.9085726737976074
+    },
+    {
+        "anchor_idx": 458,
+        "negative_idx": 210,
+        "distance": 0.9237263798713684
+    },
+    {
+        "anchor_idx": 459,
+        "negative_idx": 998,
+        "distance": 0.8972610831260681
+    },
+    {
+        "anchor_idx": 460,
+        "negative_idx": 1126,
+        "distance": 1.052337646484375
+    },
+    {
+        "anchor_idx": 461,
+        "negative_idx": 1126,
+        "distance": 0.8545941710472107
+    },
+    {
+        "anchor_idx": 462,
+        "negative_idx": 578,
+        "distance": 0.8343330025672913
+    },
+    {
+        "anchor_idx": 463,
+        "negative_idx": 578,
+        "distance": 0.8144326210021973
+    },
+    {
+        "anchor_idx": 464,
+        "negative_idx": 914,
+        "distance": 1.0122231245040894
+    },
+    {
+        "anchor_idx": 465,
+        "negative_idx": 543,
+        "distance": 0.8468374609947205
+    },
+    {
+        "anchor_idx": 466,
+        "negative_idx": 879,
+        "distance": 0.9935761094093323
+    },
+    {
+        "anchor_idx": 467,
+        "negative_idx": 154,
+        "distance": 0.773848295211792
+    },
+    {
+        "anchor_idx": 468,
+        "negative_idx": 118,
+        "distance": 0.9007460474967957
+    },
+    {
+        "anchor_idx": 469,
+        "negative_idx": 912,
+        "distance": 0.8461761474609375
+    },
+    {
+        "anchor_idx": 470,
+        "negative_idx": 947,
+        "distance": 0.8926131129264832
+    },
+    {
+        "anchor_idx": 471,
+        "negative_idx": 1003,
+        "distance": 0.9367638826370239
+    },
+    {
+        "anchor_idx": 472,
+        "negative_idx": 563,
+        "distance": 1.00144362449646
+    },
+    {
+        "anchor_idx": 473,
+        "negative_idx": 210,
+        "distance": 0.8575851321220398
+    },
+    {
+        "anchor_idx": 474,
+        "negative_idx": 121,
+        "distance": 0.8682553172111511
+    },
+    {
+        "anchor_idx": 475,
+        "negative_idx": 1121,
+        "distance": 0.884311318397522
+    },
+    {
+        "anchor_idx": 476,
+        "negative_idx": 879,
+        "distance": 0.8948555588722229
+    },
+    {
+        "anchor_idx": 477,
+        "negative_idx": 907,
+        "distance": 0.9797794818878174
+    },
+    {
+        "anchor_idx": 478,
+        "negative_idx": 563,
+        "distance": 0.8376242518424988
+    },
+    {
+        "anchor_idx": 479,
+        "negative_idx": 1237,
+        "distance": 0.7428094148635864
+    },
+    {
+        "anchor_idx": 480,
+        "negative_idx": 912,
+        "distance": 0.9613383412361145
+    },
+    {
+        "anchor_idx": 481,
+        "negative_idx": 121,
+        "distance": 0.8740067481994629
+    },
+    {
+        "anchor_idx": 482,
+        "negative_idx": 1154,
+        "distance": 0.7431888580322266
+    },
+    {
+        "anchor_idx": 483,
+        "negative_idx": 185,
+        "distance": 0.9915294051170349
+    },
+    {
+        "anchor_idx": 484,
+        "negative_idx": 791,
+        "distance": 0.766750693321228
+    },
+    {
+        "anchor_idx": 485,
+        "negative_idx": 637,
+        "distance": 0.8698782920837402
+    },
+    {
+        "anchor_idx": 486,
+        "negative_idx": 959,
+        "distance": 0.8559812307357788
+    },
+    {
+        "anchor_idx": 487,
+        "negative_idx": 1124,
+        "distance": 0.8322403430938721
+    },
+    {
+        "anchor_idx": 488,
+        "negative_idx": 180,
+        "distance": 0.8673901557922363
+    },
+    {
+        "anchor_idx": 489,
+        "negative_idx": 180,
+        "distance": 1.0546820163726807
+    },
+    {
+        "anchor_idx": 490,
+        "negative_idx": 742,
+        "distance": 0.8712414503097534
+    },
+    {
+        "anchor_idx": 491,
+        "negative_idx": 611,
+        "distance": 0.8838014602661133
+    },
+    {
+        "anchor_idx": 492,
+        "negative_idx": 1105,
+        "distance": 0.9674227237701416
+    },
+    {
+        "anchor_idx": 493,
+        "negative_idx": 1206,
+        "distance": 0.8464286923408508
+    },
+    {
+        "anchor_idx": 494,
+        "negative_idx": 652,
+        "distance": 0.7967621684074402
+    },
+    {
+        "anchor_idx": 495,
+        "negative_idx": 164,
+        "distance": 0.732674777507782
+    },
+    {
+        "anchor_idx": 496,
+        "negative_idx": 578,
+        "distance": 0.7868130803108215
+    },
+    {
+        "anchor_idx": 497,
+        "negative_idx": 993,
+        "distance": 0.7983505129814148
+    },
+    {
+        "anchor_idx": 498,
+        "negative_idx": 589,
+        "distance": 0.8322499394416809
+    },
+    {
+        "anchor_idx": 499,
+        "negative_idx": 791,
+        "distance": 0.8372856378555298
+    },
+    {
+        "anchor_idx": 500,
+        "negative_idx": 1124,
+        "distance": 1.0125383138656616
+    },
+    {
+        "anchor_idx": 501,
+        "negative_idx": 1212,
+        "distance": 0.8604532480239868
+    },
+    {
+        "anchor_idx": 502,
+        "negative_idx": 547,
+        "distance": 1.0036283731460571
+    },
+    {
+        "anchor_idx": 503,
+        "negative_idx": 350,
+        "distance": 0.9770649075508118
+    },
+    {
+        "anchor_idx": 504,
+        "negative_idx": 656,
+        "distance": 0.9768197536468506
+    },
+    {
+        "anchor_idx": 505,
+        "negative_idx": 1126,
+        "distance": 0.7984182834625244
+    },
+    {
+        "anchor_idx": 506,
+        "negative_idx": 1132,
+        "distance": 0.8184641599655151
+    },
+    {
+        "anchor_idx": 507,
+        "negative_idx": 134,
+        "distance": 0.9057246446609497
+    },
+    {
+        "anchor_idx": 508,
+        "negative_idx": 220,
+        "distance": 0.8169750571250916
+    },
+    {
+        "anchor_idx": 509,
+        "negative_idx": 497,
+        "distance": 0.9088214039802551
+    },
+    {
+        "anchor_idx": 510,
+        "negative_idx": 579,
+        "distance": 1.0444046258926392
+    },
+    {
+        "anchor_idx": 511,
+        "negative_idx": 714,
+        "distance": 0.8157374858856201
+    },
+    {
+        "anchor_idx": 512,
+        "negative_idx": 153,
+        "distance": 0.8719059824943542
+    },
+    {
+        "anchor_idx": 513,
+        "negative_idx": 77,
+        "distance": 0.9108347296714783
+    },
+    {
+        "anchor_idx": 514,
+        "negative_idx": 405,
+        "distance": 0.9299498796463013
+    },
+    {
+        "anchor_idx": 515,
+        "negative_idx": 950,
+        "distance": 1.0500952005386353
+    },
+    {
+        "anchor_idx": 516,
+        "negative_idx": 752,
+        "distance": 0.85415118932724
+    },
+    {
+        "anchor_idx": 517,
+        "negative_idx": 256,
+        "distance": 0.8611803650856018
+    },
+    {
+        "anchor_idx": 518,
+        "negative_idx": 387,
+        "distance": 0.760927677154541
+    },
+    {
+        "anchor_idx": 519,
+        "negative_idx": 833,
+        "distance": 0.8086749315261841
+    },
+    {
+        "anchor_idx": 520,
+        "negative_idx": 1288,
+        "distance": 0.8774062395095825
+    },
+    {
+        "anchor_idx": 521,
+        "negative_idx": 387,
+        "distance": 0.742364227771759
+    },
+    {
+        "anchor_idx": 522,
+        "negative_idx": 256,
+        "distance": 0.7768552899360657
+    },
+    {
+        "anchor_idx": 523,
+        "negative_idx": 606,
+        "distance": 0.6826481819152832
+    },
+    {
+        "anchor_idx": 524,
+        "negative_idx": 482,
+        "distance": 1.0244834423065186
+    },
+    {
+        "anchor_idx": 525,
+        "negative_idx": 835,
+        "distance": 0.8142176866531372
+    },
+    {
+        "anchor_idx": 526,
+        "negative_idx": 277,
+        "distance": 0.886091411113739
+    },
+    {
+        "anchor_idx": 527,
+        "negative_idx": 781,
+        "distance": 1.0043436288833618
+    },
+    {
+        "anchor_idx": 528,
+        "negative_idx": 256,
+        "distance": 0.755297839641571
+    },
+    {
+        "anchor_idx": 529,
+        "negative_idx": 585,
+        "distance": 0.9952672719955444
+    },
+    {
+        "anchor_idx": 530,
+        "negative_idx": 1288,
+        "distance": 0.7390555739402771
+    },
+    {
+        "anchor_idx": 531,
+        "negative_idx": 770,
+        "distance": 0.7783626317977905
+    },
+    {
+        "anchor_idx": 532,
+        "negative_idx": 387,
+        "distance": 0.8535107374191284
+    },
+    {
+        "anchor_idx": 533,
+        "negative_idx": 620,
+        "distance": 1.061672329902649
+    },
+    {
+        "anchor_idx": 534,
+        "negative_idx": 842,
+        "distance": 0.830230176448822
+    },
+    {
+        "anchor_idx": 535,
+        "negative_idx": 606,
+        "distance": 1.089655876159668
+    },
+    {
+        "anchor_idx": 536,
+        "negative_idx": 1140,
+        "distance": 0.7456614375114441
+    },
+    {
+        "anchor_idx": 537,
+        "negative_idx": 310,
+        "distance": 0.9517130255699158
+    },
+    {
+        "anchor_idx": 538,
+        "negative_idx": 109,
+        "distance": 0.7620168328285217
+    },
+    {
+        "anchor_idx": 539,
+        "negative_idx": 1175,
+        "distance": 1.0540900230407715
+    },
+    {
+        "anchor_idx": 540,
+        "negative_idx": 87,
+        "distance": 1.233187198638916
+    },
+    {
+        "anchor_idx": 541,
+        "negative_idx": 1122,
+        "distance": 1.0011430978775024
+    },
+    {
+        "anchor_idx": 542,
+        "negative_idx": 156,
+        "distance": 0.9840578436851501
+    },
+    {
+        "anchor_idx": 543,
+        "negative_idx": 956,
+        "distance": 0.7826640605926514
+    },
+    {
+        "anchor_idx": 544,
+        "negative_idx": 238,
+        "distance": 0.8581081628799438
+    },
+    {
+        "anchor_idx": 545,
+        "negative_idx": 788,
+        "distance": 0.9330726861953735
+    },
+    {
+        "anchor_idx": 546,
+        "negative_idx": 135,
+        "distance": 0.8260682225227356
+    },
+    {
+        "anchor_idx": 547,
+        "negative_idx": 1126,
+        "distance": 0.8374404311180115
+    },
+    {
+        "anchor_idx": 548,
+        "negative_idx": 741,
+        "distance": 0.8767368197441101
+    },
+    {
+        "anchor_idx": 549,
+        "negative_idx": 180,
+        "distance": 0.7955421209335327
+    },
+    {
+        "anchor_idx": 550,
+        "negative_idx": 736,
+        "distance": 0.900101363658905
+    },
+    {
+        "anchor_idx": 551,
+        "negative_idx": 757,
+        "distance": 0.8205683827400208
+    },
+    {
+        "anchor_idx": 552,
+        "negative_idx": 1154,
+        "distance": 0.7189239263534546
+    },
+    {
+        "anchor_idx": 553,
+        "negative_idx": 149,
+        "distance": 0.9223482012748718
+    },
+    {
+        "anchor_idx": 554,
+        "negative_idx": 998,
+        "distance": 0.7262933850288391
+    },
+    {
+        "anchor_idx": 555,
+        "negative_idx": 176,
+        "distance": 0.7451269626617432
+    },
+    {
+        "anchor_idx": 556,
+        "negative_idx": 1132,
+        "distance": 0.9323437213897705
+    },
+    {
+        "anchor_idx": 557,
+        "negative_idx": 319,
+        "distance": 1.1258034706115723
+    },
+    {
+        "anchor_idx": 558,
+        "negative_idx": 180,
+        "distance": 0.8555523157119751
+    },
+    {
+        "anchor_idx": 559,
+        "negative_idx": 183,
+        "distance": 1.0123831033706665
+    },
+    {
+        "anchor_idx": 560,
+        "negative_idx": 956,
+        "distance": 0.8004868030548096
+    },
+    {
+        "anchor_idx": 561,
+        "negative_idx": 428,
+        "distance": 0.9171915054321289
+    },
+    {
+        "anchor_idx": 562,
+        "negative_idx": 1022,
+        "distance": 0.8243274092674255
+    },
+    {
+        "anchor_idx": 563,
+        "negative_idx": 188,
+        "distance": 0.8210139870643616
+    },
+    {
+        "anchor_idx": 564,
+        "negative_idx": 180,
+        "distance": 0.8183549046516418
+    },
+    {
+        "anchor_idx": 565,
+        "negative_idx": 916,
+        "distance": 1.0637316703796387
+    },
+    {
+        "anchor_idx": 566,
+        "negative_idx": 456,
+        "distance": 0.8649826049804688
+    },
+    {
+        "anchor_idx": 567,
+        "negative_idx": 788,
+        "distance": 0.9295185208320618
+    },
+    {
+        "anchor_idx": 568,
+        "negative_idx": 1325,
+        "distance": 0.9787783622741699
+    },
+    {
+        "anchor_idx": 569,
+        "negative_idx": 180,
+        "distance": 0.7742131352424622
+    },
+    {
+        "anchor_idx": 570,
+        "negative_idx": 1201,
+        "distance": 0.845481812953949
+    },
+    {
+        "anchor_idx": 571,
+        "negative_idx": 736,
+        "distance": 1.0246001482009888
+    },
+    {
+        "anchor_idx": 572,
+        "negative_idx": 607,
+        "distance": 0.8602790832519531
+    },
+    {
+        "anchor_idx": 573,
+        "negative_idx": 135,
+        "distance": 0.9505240321159363
+    },
+    {
+        "anchor_idx": 574,
+        "negative_idx": 665,
+        "distance": 0.9503477215766907
+    },
+    {
+        "anchor_idx": 575,
+        "negative_idx": 184,
+        "distance": 0.873591959476471
+    },
+    {
+        "anchor_idx": 576,
+        "negative_idx": 135,
+        "distance": 0.9216301441192627
+    },
+    {
+        "anchor_idx": 577,
+        "negative_idx": 180,
+        "distance": 1.0449762344360352
+    },
+    {
+        "anchor_idx": 578,
+        "negative_idx": 1133,
+        "distance": 0.7444383502006531
+    },
+    {
+        "anchor_idx": 579,
+        "negative_idx": 992,
+        "distance": 0.8790746927261353
+    },
+    {
+        "anchor_idx": 580,
+        "negative_idx": 1206,
+        "distance": 0.8948326110839844
+    },
+    {
+        "anchor_idx": 581,
+        "negative_idx": 180,
+        "distance": 0.8781971335411072
+    },
+    {
+        "anchor_idx": 582,
+        "negative_idx": 1116,
+        "distance": 0.913250744342804
+    },
+    {
+        "anchor_idx": 583,
+        "negative_idx": 217,
+        "distance": 1.018075704574585
+    },
+    {
+        "anchor_idx": 584,
+        "negative_idx": 939,
+        "distance": 1.0018377304077148
+    },
+    {
+        "anchor_idx": 585,
+        "negative_idx": 665,
+        "distance": 0.8467718958854675
+    },
+    {
+        "anchor_idx": 586,
+        "negative_idx": 263,
+        "distance": 0.8968719244003296
+    },
+    {
+        "anchor_idx": 587,
+        "negative_idx": 180,
+        "distance": 0.8782309293746948
+    },
+    {
+        "anchor_idx": 588,
+        "negative_idx": 1215,
+        "distance": 0.9548739194869995
+    },
+    {
+        "anchor_idx": 589,
+        "negative_idx": 416,
+        "distance": 0.7584378719329834
+    },
+    {
+        "anchor_idx": 590,
+        "negative_idx": 768,
+        "distance": 1.0093625783920288
+    },
+    {
+        "anchor_idx": 591,
+        "negative_idx": 781,
+        "distance": 1.161279559135437
+    },
+    {
+        "anchor_idx": 592,
+        "negative_idx": 799,
+        "distance": 1.0664398670196533
+    },
+    {
+        "anchor_idx": 593,
+        "negative_idx": 768,
+        "distance": 1.1382991075515747
+    },
+    {
+        "anchor_idx": 594,
+        "negative_idx": 1283,
+        "distance": 0.7516242265701294
+    },
+    {
+        "anchor_idx": 595,
+        "negative_idx": 772,
+        "distance": 0.7424928545951843
+    },
+    {
+        "anchor_idx": 596,
+        "negative_idx": 328,
+        "distance": 0.8260571956634521
+    },
+    {
+        "anchor_idx": 597,
+        "negative_idx": 1345,
+        "distance": 0.7779265642166138
+    },
+    {
+        "anchor_idx": 598,
+        "negative_idx": 49,
+        "distance": 0.7568522691726685
+    },
+    {
+        "anchor_idx": 599,
+        "negative_idx": 776,
+        "distance": 0.8507911562919617
+    },
+    {
+        "anchor_idx": 600,
+        "negative_idx": 1289,
+        "distance": 0.8016365766525269
+    },
+    {
+        "anchor_idx": 601,
+        "negative_idx": 48,
+        "distance": 0.7171613574028015
+    },
+    {
+        "anchor_idx": 602,
+        "negative_idx": 835,
+        "distance": 0.8420092463493347
+    },
+    {
+        "anchor_idx": 603,
+        "negative_idx": 48,
+        "distance": 0.7614384889602661
+    },
+    {
+        "anchor_idx": 604,
+        "negative_idx": 525,
+        "distance": 0.8403666615486145
+    },
+    {
+        "anchor_idx": 605,
+        "negative_idx": 328,
+        "distance": 0.9400371313095093
+    },
+    {
+        "anchor_idx": 606,
+        "negative_idx": 523,
+        "distance": 0.6826524138450623
+    },
+    {
+        "anchor_idx": 607,
+        "negative_idx": 572,
+        "distance": 0.8602824807167053
+    },
+    {
+        "anchor_idx": 608,
+        "negative_idx": 967,
+        "distance": 0.7937059998512268
+    },
+    {
+        "anchor_idx": 609,
+        "negative_idx": 968,
+        "distance": 0.7941721081733704
+    },
+    {
+        "anchor_idx": 610,
+        "negative_idx": 589,
+        "distance": 0.9517022967338562
+    },
+    {
+        "anchor_idx": 611,
+        "negative_idx": 1009,
+        "distance": 0.8359558582305908
+    },
+    {
+        "anchor_idx": 612,
+        "negative_idx": 880,
+        "distance": 0.7736971378326416
+    },
+    {
+        "anchor_idx": 613,
+        "negative_idx": 880,
+        "distance": 0.7844926118850708
+    },
+    {
+        "anchor_idx": 614,
+        "negative_idx": 132,
+        "distance": 0.780326783657074
+    },
+    {
+        "anchor_idx": 615,
+        "negative_idx": 392,
+        "distance": 0.9786501526832581
+    },
+    {
+        "anchor_idx": 616,
+        "negative_idx": 579,
+        "distance": 0.9911772608757019
+    },
+    {
+        "anchor_idx": 617,
+        "negative_idx": 182,
+        "distance": 0.8506856560707092
+    },
+    {
+        "anchor_idx": 618,
+        "negative_idx": 637,
+        "distance": 0.9083492755889893
+    },
+    {
+        "anchor_idx": 619,
+        "negative_idx": 106,
+        "distance": 0.8148812651634216
+    },
+    {
+        "anchor_idx": 620,
+        "negative_idx": 743,
+        "distance": 0.7955842018127441
+    },
+    {
+        "anchor_idx": 621,
+        "negative_idx": 182,
+        "distance": 0.694889485836029
+    },
+    {
+        "anchor_idx": 622,
+        "negative_idx": 229,
+        "distance": 0.7608551383018494
+    },
+    {
+        "anchor_idx": 623,
+        "negative_idx": 1268,
+        "distance": 1.2605674266815186
+    },
+    {
+        "anchor_idx": 624,
+        "negative_idx": 716,
+        "distance": 0.7978300452232361
+    },
+    {
+        "anchor_idx": 625,
+        "negative_idx": 125,
+        "distance": 1.2001372575759888
+    },
+    {
+        "anchor_idx": 626,
+        "negative_idx": 170,
+        "distance": 0.7239773869514465
+    },
+    {
+        "anchor_idx": 627,
+        "negative_idx": 359,
+        "distance": 0.9506345391273499
+    },
+    {
+        "anchor_idx": 628,
+        "negative_idx": 942,
+        "distance": 0.7453848123550415
+    },
+    {
+        "anchor_idx": 629,
+        "negative_idx": 1262,
+        "distance": 1.0160040855407715
+    },
+    {
+        "anchor_idx": 630,
+        "negative_idx": 951,
+        "distance": 1.0368784666061401
+    },
+    {
+        "anchor_idx": 631,
+        "negative_idx": 110,
+        "distance": 0.9048827886581421
+    },
+    {
+        "anchor_idx": 632,
+        "negative_idx": 1130,
+        "distance": 0.9320721626281738
+    },
+    {
+        "anchor_idx": 633,
+        "negative_idx": 405,
+        "distance": 0.8525415658950806
+    },
+    {
+        "anchor_idx": 634,
+        "negative_idx": 880,
+        "distance": 0.8065198659896851
+    },
+    {
+        "anchor_idx": 635,
+        "negative_idx": 1253,
+        "distance": 0.9486836791038513
+    },
+    {
+        "anchor_idx": 636,
+        "negative_idx": 628,
+        "distance": 0.8671492338180542
+    },
+    {
+        "anchor_idx": 637,
+        "negative_idx": 1185,
+        "distance": 0.8171972632408142
+    },
+    {
+        "anchor_idx": 638,
+        "negative_idx": 1193,
+        "distance": 0.8830681443214417
+    },
+    {
+        "anchor_idx": 639,
+        "negative_idx": 166,
+        "distance": 0.7573406100273132
+    },
+    {
+        "anchor_idx": 640,
+        "negative_idx": 1129,
+        "distance": 0.8098154664039612
+    },
+    {
+        "anchor_idx": 641,
+        "negative_idx": 622,
+        "distance": 0.7763868570327759
+    },
+    {
+        "anchor_idx": 642,
+        "negative_idx": 564,
+        "distance": 0.9413449168205261
+    },
+    {
+        "anchor_idx": 643,
+        "negative_idx": 1029,
+        "distance": 1.2678667306900024
+    },
+    {
+        "anchor_idx": 644,
+        "negative_idx": 581,
+        "distance": 1.0127240419387817
+    },
+    {
+        "anchor_idx": 645,
+        "negative_idx": 734,
+        "distance": 1.112056851387024
+    },
+    {
+        "anchor_idx": 646,
+        "negative_idx": 1124,
+        "distance": 0.8384324908256531
+    },
+    {
+        "anchor_idx": 647,
+        "negative_idx": 42,
+        "distance": 0.941678524017334
+    },
+    {
+        "anchor_idx": 648,
+        "negative_idx": 602,
+        "distance": 1.0593911409378052
+    },
+    {
+        "anchor_idx": 649,
+        "negative_idx": 363,
+        "distance": 0.8797701001167297
+    },
+    {
+        "anchor_idx": 650,
+        "negative_idx": 328,
+        "distance": 0.8050503134727478
+    },
+    {
+        "anchor_idx": 651,
+        "negative_idx": 199,
+        "distance": 1.090585470199585
+    },
+    {
+        "anchor_idx": 652,
+        "negative_idx": 1300,
+        "distance": 0.731421172618866
+    },
+    {
+        "anchor_idx": 653,
+        "negative_idx": 456,
+        "distance": 0.9218916893005371
+    },
+    {
+        "anchor_idx": 654,
+        "negative_idx": 700,
+        "distance": 0.7894386053085327
+    },
+    {
+        "anchor_idx": 655,
+        "negative_idx": 274,
+        "distance": 0.8943009972572327
+    },
+    {
+        "anchor_idx": 656,
+        "negative_idx": 1300,
+        "distance": 0.921675443649292
+    },
+    {
+        "anchor_idx": 657,
+        "negative_idx": 437,
+        "distance": 1.0532137155532837
+    },
+    {
+        "anchor_idx": 658,
+        "negative_idx": 993,
+        "distance": 0.9084931015968323
+    },
+    {
+        "anchor_idx": 659,
+        "negative_idx": 205,
+        "distance": 0.8671445846557617
+    },
+    {
+        "anchor_idx": 660,
+        "negative_idx": 652,
+        "distance": 0.8653753995895386
+    },
+    {
+        "anchor_idx": 661,
+        "negative_idx": 389,
+        "distance": 0.7936415672302246
+    },
+    {
+        "anchor_idx": 662,
+        "negative_idx": 188,
+        "distance": 0.8009306788444519
+    },
+    {
+        "anchor_idx": 663,
+        "negative_idx": 871,
+        "distance": 0.9210085868835449
+    },
+    {
+        "anchor_idx": 664,
+        "negative_idx": 808,
+        "distance": 1.2497857809066772
+    },
+    {
+        "anchor_idx": 665,
+        "negative_idx": 1312,
+        "distance": 0.8386261463165283
+    },
+    {
+        "anchor_idx": 666,
+        "negative_idx": 1231,
+        "distance": 0.9732011556625366
+    },
+    {
+        "anchor_idx": 667,
+        "negative_idx": 1170,
+        "distance": 1.377410888671875
+    },
+    {
+        "anchor_idx": 668,
+        "negative_idx": 646,
+        "distance": 0.9002278447151184
+    },
+    {
+        "anchor_idx": 669,
+        "negative_idx": 145,
+        "distance": 0.8023942112922668
+    },
+    {
+        "anchor_idx": 670,
+        "negative_idx": 488,
+        "distance": 0.9868766665458679
+    },
+    {
+        "anchor_idx": 671,
+        "negative_idx": 723,
+        "distance": 0.9877543449401855
+    },
+    {
+        "anchor_idx": 672,
+        "negative_idx": 1255,
+        "distance": 1.1004258394241333
+    },
+    {
+        "anchor_idx": 673,
+        "negative_idx": 435,
+        "distance": 0.9884785413742065
+    },
+    {
+        "anchor_idx": 674,
+        "negative_idx": 566,
+        "distance": 0.9611380100250244
+    },
+    {
+        "anchor_idx": 675,
+        "negative_idx": 982,
+        "distance": 0.9996151328086853
+    },
+    {
+        "anchor_idx": 676,
+        "negative_idx": 167,
+        "distance": 1.0871835947036743
+    },
+    {
+        "anchor_idx": 677,
+        "negative_idx": 723,
+        "distance": 1.4133135080337524
+    },
+    {
+        "anchor_idx": 678,
+        "negative_idx": 581,
+        "distance": 0.9997540712356567
+    },
+    {
+        "anchor_idx": 679,
+        "negative_idx": 1251,
+        "distance": 1.0270435810089111
+    },
+    {
+        "anchor_idx": 680,
+        "negative_idx": 1212,
+        "distance": 0.7662286162376404
+    },
+    {
+        "anchor_idx": 681,
+        "negative_idx": 263,
+        "distance": 0.8334173560142517
+    },
+    {
+        "anchor_idx": 682,
+        "negative_idx": 646,
+        "distance": 1.0330479145050049
+    },
+    {
+        "anchor_idx": 683,
+        "negative_idx": 97,
+        "distance": 1.014534831047058
+    },
+    {
+        "anchor_idx": 684,
+        "negative_idx": 1060,
+        "distance": 1.2175724506378174
+    },
+    {
+        "anchor_idx": 685,
+        "negative_idx": 564,
+        "distance": 1.1480438709259033
+    },
+    {
+        "anchor_idx": 686,
+        "negative_idx": 378,
+        "distance": 0.9567150473594666
+    },
+    {
+        "anchor_idx": 687,
+        "negative_idx": 1307,
+        "distance": 0.7456522583961487
+    },
+    {
+        "anchor_idx": 688,
+        "negative_idx": 547,
+        "distance": 0.9148648381233215
+    },
+    {
+        "anchor_idx": 689,
+        "negative_idx": 488,
+        "distance": 0.9702483415603638
+    },
+    {
+        "anchor_idx": 690,
+        "negative_idx": 263,
+        "distance": 1.1000181436538696
+    },
+    {
+        "anchor_idx": 691,
+        "negative_idx": 184,
+        "distance": 0.8898757100105286
+    },
+    {
+        "anchor_idx": 692,
+        "negative_idx": 587,
+        "distance": 0.9627546072006226
+    },
+    {
+        "anchor_idx": 693,
+        "negative_idx": 575,
+        "distance": 1.038378119468689
+    },
+    {
+        "anchor_idx": 694,
+        "negative_idx": 1300,
+        "distance": 0.75693678855896
+    },
+    {
+        "anchor_idx": 695,
+        "negative_idx": 145,
+        "distance": 1.057377815246582
+    },
+    {
+        "anchor_idx": 696,
+        "negative_idx": 1307,
+        "distance": 0.9423049092292786
+    },
+    {
+        "anchor_idx": 697,
+        "negative_idx": 292,
+        "distance": 0.8046661615371704
+    },
+    {
+        "anchor_idx": 698,
+        "negative_idx": 587,
+        "distance": 0.8893135786056519
+    },
+    {
+        "anchor_idx": 699,
+        "negative_idx": 1307,
+        "distance": 0.7615600824356079
+    },
+    {
+        "anchor_idx": 700,
+        "negative_idx": 1252,
+        "distance": 0.7276407480239868
+    },
+    {
+        "anchor_idx": 701,
+        "negative_idx": 223,
+        "distance": 1.0928981304168701
+    },
+    {
+        "anchor_idx": 702,
+        "negative_idx": 1155,
+        "distance": 0.7754822969436646
+    },
+    {
+        "anchor_idx": 703,
+        "negative_idx": 1155,
+        "distance": 0.7443799376487732
+    },
+    {
+        "anchor_idx": 704,
+        "negative_idx": 1300,
+        "distance": 0.8581912517547607
+    },
+    {
+        "anchor_idx": 705,
+        "negative_idx": 1156,
+        "distance": 0.9081853032112122
+    },
+    {
+        "anchor_idx": 706,
+        "negative_idx": 641,
+        "distance": 0.8327459096908569
+    },
+    {
+        "anchor_idx": 707,
+        "negative_idx": 570,
+        "distance": 0.8978406190872192
+    },
+    {
+        "anchor_idx": 708,
+        "negative_idx": 738,
+        "distance": 0.7634174823760986
+    },
+    {
+        "anchor_idx": 709,
+        "negative_idx": 511,
+        "distance": 0.945652425289154
+    },
+    {
+        "anchor_idx": 710,
+        "negative_idx": 1037,
+        "distance": 1.106723666191101
+    },
+    {
+        "anchor_idx": 711,
+        "negative_idx": 570,
+        "distance": 1.0630099773406982
+    },
+    {
+        "anchor_idx": 712,
+        "negative_idx": 789,
+        "distance": 1.217391848564148
+    },
+    {
+        "anchor_idx": 713,
+        "negative_idx": 144,
+        "distance": 0.7684658169746399
+    },
+    {
+        "anchor_idx": 714,
+        "negative_idx": 511,
+        "distance": 0.8157392144203186
+    },
+    {
+        "anchor_idx": 715,
+        "negative_idx": 646,
+        "distance": 0.908877432346344
+    },
+    {
+        "anchor_idx": 716,
+        "negative_idx": 742,
+        "distance": 0.7055718302726746
+    },
+    {
+        "anchor_idx": 717,
+        "negative_idx": 547,
+        "distance": 0.9567483067512512
+    },
+    {
+        "anchor_idx": 718,
+        "negative_idx": 445,
+        "distance": 0.8697969317436218
+    },
+    {
+        "anchor_idx": 719,
+        "negative_idx": 1219,
+        "distance": 0.9648467898368835
+    },
+    {
+        "anchor_idx": 720,
+        "negative_idx": 1126,
+        "distance": 0.8010992407798767
+    },
+    {
+        "anchor_idx": 721,
+        "negative_idx": 1253,
+        "distance": 0.73409503698349
+    },
+    {
+        "anchor_idx": 722,
+        "negative_idx": 1176,
+        "distance": 1.2574267387390137
+    },
+    {
+        "anchor_idx": 723,
+        "negative_idx": 671,
+        "distance": 0.9877530336380005
+    },
+    {
+        "anchor_idx": 724,
+        "negative_idx": 917,
+        "distance": 1.3277065753936768
+    },
+    {
+        "anchor_idx": 725,
+        "negative_idx": 576,
+        "distance": 1.275518536567688
+    },
+    {
+        "anchor_idx": 726,
+        "negative_idx": 245,
+        "distance": 1.068565845489502
+    },
+    {
+        "anchor_idx": 727,
+        "negative_idx": 741,
+        "distance": 1.0671701431274414
+    },
+    {
+        "anchor_idx": 728,
+        "negative_idx": 734,
+        "distance": 0.8818203806877136
+    },
+    {
+        "anchor_idx": 729,
+        "negative_idx": 666,
+        "distance": 1.0178571939468384
+    },
+    {
+        "anchor_idx": 730,
+        "negative_idx": 1276,
+        "distance": 0.9407121539115906
+    },
+    {
+        "anchor_idx": 731,
+        "negative_idx": 62,
+        "distance": 0.9772540926933289
+    },
+    {
+        "anchor_idx": 732,
+        "negative_idx": 106,
+        "distance": 0.9837084412574768
+    },
+    {
+        "anchor_idx": 733,
+        "negative_idx": 1121,
+        "distance": 0.873611330986023
+    },
+    {
+        "anchor_idx": 734,
+        "negative_idx": 66,
+        "distance": 0.708833634853363
+    },
+    {
+        "anchor_idx": 735,
+        "negative_idx": 1139,
+        "distance": 0.8857887387275696
+    },
+    {
+        "anchor_idx": 736,
+        "negative_idx": 550,
+        "distance": 0.9001060724258423
+    },
+    {
+        "anchor_idx": 737,
+        "negative_idx": 182,
+        "distance": 0.7689175009727478
+    },
+    {
+        "anchor_idx": 738,
+        "negative_idx": 106,
+        "distance": 0.7501732110977173
+    },
+    {
+        "anchor_idx": 739,
+        "negative_idx": 942,
+        "distance": 0.9490542411804199
+    },
+    {
+        "anchor_idx": 740,
+        "negative_idx": 203,
+        "distance": 0.6609798669815063
+    },
+    {
+        "anchor_idx": 741,
+        "negative_idx": 223,
+        "distance": 0.820490837097168
+    },
+    {
+        "anchor_idx": 742,
+        "negative_idx": 1252,
+        "distance": 0.6606693267822266
+    },
+    {
+        "anchor_idx": 743,
+        "negative_idx": 620,
+        "distance": 0.7955875992774963
+    },
+    {
+        "anchor_idx": 744,
+        "negative_idx": 1147,
+        "distance": 0.8024287819862366
+    },
+    {
+        "anchor_idx": 745,
+        "negative_idx": 187,
+        "distance": 0.8318313360214233
+    },
+    {
+        "anchor_idx": 746,
+        "negative_idx": 1240,
+        "distance": 0.892855167388916
+    },
+    {
+        "anchor_idx": 747,
+        "negative_idx": 165,
+        "distance": 1.070346474647522
+    },
+    {
+        "anchor_idx": 748,
+        "negative_idx": 165,
+        "distance": 0.8311417698860168
+    },
+    {
+        "anchor_idx": 749,
+        "negative_idx": 40,
+        "distance": 1.037584662437439
+    },
+    {
+        "anchor_idx": 750,
+        "negative_idx": 740,
+        "distance": 0.779182493686676
+    },
+    {
+        "anchor_idx": 751,
+        "negative_idx": 241,
+        "distance": 1.001847267150879
+    },
+    {
+        "anchor_idx": 752,
+        "negative_idx": 195,
+        "distance": 0.7504488825798035
+    },
+    {
+        "anchor_idx": 753,
+        "negative_idx": 1143,
+        "distance": 0.9128262996673584
+    },
+    {
+        "anchor_idx": 754,
+        "negative_idx": 1300,
+        "distance": 0.8196161389350891
+    },
+    {
+        "anchor_idx": 755,
+        "negative_idx": 451,
+        "distance": 0.8832051157951355
+    },
+    {
+        "anchor_idx": 756,
+        "negative_idx": 90,
+        "distance": 0.8823636770248413
+    },
+    {
+        "anchor_idx": 757,
+        "negative_idx": 578,
+        "distance": 0.7686490416526794
+    },
+    {
+        "anchor_idx": 758,
+        "negative_idx": 956,
+        "distance": 0.8710616230964661
+    },
+    {
+        "anchor_idx": 759,
+        "negative_idx": 552,
+        "distance": 0.7871816754341125
+    },
+    {
+        "anchor_idx": 760,
+        "negative_idx": 168,
+        "distance": 1.0423071384429932
+    },
+    {
+        "anchor_idx": 761,
+        "negative_idx": 1158,
+        "distance": 0.7991605997085571
+    },
+    {
+        "anchor_idx": 762,
+        "negative_idx": 195,
+        "distance": 0.7254981398582458
+    },
+    {
+        "anchor_idx": 763,
+        "negative_idx": 363,
+        "distance": 0.7097538113594055
+    },
+    {
+        "anchor_idx": 764,
+        "negative_idx": 1190,
+        "distance": 0.8899376392364502
+    },
+    {
+        "anchor_idx": 765,
+        "negative_idx": 1334,
+        "distance": 0.9455689787864685
+    },
+    {
+        "anchor_idx": 766,
+        "negative_idx": 1145,
+        "distance": 0.7545044422149658
+    },
+    {
+        "anchor_idx": 767,
+        "negative_idx": 1222,
+        "distance": 0.9321281313896179
+    },
+    {
+        "anchor_idx": 768,
+        "negative_idx": 165,
+        "distance": 0.8576530814170837
+    },
+    {
+        "anchor_idx": 769,
+        "negative_idx": 1007,
+        "distance": 0.7678446769714355
+    },
+    {
+        "anchor_idx": 770,
+        "negative_idx": 987,
+        "distance": 0.6928028464317322
+    },
+    {
+        "anchor_idx": 771,
+        "negative_idx": 740,
+        "distance": 0.7623314261436462
+    },
+    {
+        "anchor_idx": 772,
+        "negative_idx": 595,
+        "distance": 0.7424942851066589
+    },
+    {
+        "anchor_idx": 773,
+        "negative_idx": 1008,
+        "distance": 1.0503838062286377
+    },
+    {
+        "anchor_idx": 774,
+        "negative_idx": 18,
+        "distance": 0.9125748872756958
+    },
+    {
+        "anchor_idx": 775,
+        "negative_idx": 1175,
+        "distance": 0.8341708183288574
+    },
+    {
+        "anchor_idx": 776,
+        "negative_idx": 1162,
+        "distance": 0.7630133032798767
+    },
+    {
+        "anchor_idx": 777,
+        "negative_idx": 138,
+        "distance": 0.8426520228385925
+    },
+    {
+        "anchor_idx": 778,
+        "negative_idx": 23,
+        "distance": 0.7272095084190369
+    },
+    {
+        "anchor_idx": 779,
+        "negative_idx": 142,
+        "distance": 1.1575154066085815
+    },
+    {
+        "anchor_idx": 780,
+        "negative_idx": 595,
+        "distance": 0.8077150583267212
+    },
+    {
+        "anchor_idx": 781,
+        "negative_idx": 66,
+        "distance": 0.7751390933990479
+    },
+    {
+        "anchor_idx": 782,
+        "negative_idx": 816,
+        "distance": 1.0297760963439941
+    },
+    {
+        "anchor_idx": 783,
+        "negative_idx": 58,
+        "distance": 0.7788203358650208
+    },
+    {
+        "anchor_idx": 784,
+        "negative_idx": 14,
+        "distance": 0.8364176750183105
+    },
+    {
+        "anchor_idx": 785,
+        "negative_idx": 228,
+        "distance": 1.0136574506759644
+    },
+    {
+        "anchor_idx": 786,
+        "negative_idx": 14,
+        "distance": 0.7333239912986755
+    },
+    {
+        "anchor_idx": 787,
+        "negative_idx": 958,
+        "distance": 0.9491485357284546
+    },
+    {
+        "anchor_idx": 788,
+        "negative_idx": 1201,
+        "distance": 0.8346667885780334
+    },
+    {
+        "anchor_idx": 789,
+        "negative_idx": 408,
+        "distance": 0.904885470867157
+    },
+    {
+        "anchor_idx": 790,
+        "negative_idx": 1256,
+        "distance": 0.8959619402885437
+    },
+    {
+        "anchor_idx": 791,
+        "negative_idx": 484,
+        "distance": 0.7667495608329773
+    },
+    {
+        "anchor_idx": 792,
+        "negative_idx": 1022,
+        "distance": 0.731102705001831
+    },
+    {
+        "anchor_idx": 793,
+        "negative_idx": 199,
+        "distance": 0.91805499792099
+    },
+    {
+        "anchor_idx": 794,
+        "negative_idx": 742,
+        "distance": 0.9520993828773499
+    },
+    {
+        "anchor_idx": 795,
+        "negative_idx": 1013,
+        "distance": 0.9058054089546204
+    },
+    {
+        "anchor_idx": 796,
+        "negative_idx": 116,
+        "distance": 0.8341495394706726
+    },
+    {
+        "anchor_idx": 797,
+        "negative_idx": 452,
+        "distance": 1.092142939567566
+    },
+    {
+        "anchor_idx": 798,
+        "negative_idx": 1094,
+        "distance": 0.8806014060974121
+    },
+    {
+        "anchor_idx": 799,
+        "negative_idx": 563,
+        "distance": 0.903989851474762
+    },
+    {
+        "anchor_idx": 800,
+        "negative_idx": 478,
+        "distance": 1.0423365831375122
+    },
+    {
+        "anchor_idx": 801,
+        "negative_idx": 1200,
+        "distance": 1.4232056140899658
+    },
+    {
+        "anchor_idx": 802,
+        "negative_idx": 563,
+        "distance": 1.0269973278045654
+    },
+    {
+        "anchor_idx": 803,
+        "negative_idx": 146,
+        "distance": 1.005172610282898
+    },
+    {
+        "anchor_idx": 804,
+        "negative_idx": 493,
+        "distance": 1.1867276430130005
+    },
+    {
+        "anchor_idx": 805,
+        "negative_idx": 1303,
+        "distance": 1.2024428844451904
+    },
+    {
+        "anchor_idx": 806,
+        "negative_idx": 439,
+        "distance": 0.969451367855072
+    },
+    {
+        "anchor_idx": 807,
+        "negative_idx": 997,
+        "distance": 1.254256010055542
+    },
+    {
+        "anchor_idx": 808,
+        "negative_idx": 1231,
+        "distance": 1.0360902547836304
+    },
+    {
+        "anchor_idx": 809,
+        "negative_idx": 1224,
+        "distance": 1.0241646766662598
+    },
+    {
+        "anchor_idx": 810,
+        "negative_idx": 123,
+        "distance": 0.9597729444503784
+    },
+    {
+        "anchor_idx": 811,
+        "negative_idx": 453,
+        "distance": 0.9857886433601379
+    },
+    {
+        "anchor_idx": 812,
+        "negative_idx": 1228,
+        "distance": 1.2760220766067505
+    },
+    {
+        "anchor_idx": 813,
+        "negative_idx": 547,
+        "distance": 0.8551164865493774
+    },
+    {
+        "anchor_idx": 814,
+        "negative_idx": 452,
+        "distance": 1.1314482688903809
+    },
+    {
+        "anchor_idx": 815,
+        "negative_idx": 49,
+        "distance": 0.8373970985412598
+    },
+    {
+        "anchor_idx": 816,
+        "negative_idx": 335,
+        "distance": 0.7348937392234802
+    },
+    {
+        "anchor_idx": 817,
+        "negative_idx": 776,
+        "distance": 0.8820104598999023
+    },
+    {
+        "anchor_idx": 818,
+        "negative_idx": 389,
+        "distance": 0.9909940958023071
+    },
+    {
+        "anchor_idx": 819,
+        "negative_idx": 519,
+        "distance": 1.0504131317138672
+    },
+    {
+        "anchor_idx": 820,
+        "negative_idx": 312,
+        "distance": 0.8132160305976868
+    },
+    {
+        "anchor_idx": 821,
+        "negative_idx": 844,
+        "distance": 0.9059422016143799
+    },
+    {
+        "anchor_idx": 822,
+        "negative_idx": 49,
+        "distance": 0.9370876550674438
+    },
+    {
+        "anchor_idx": 823,
+        "negative_idx": 842,
+        "distance": 0.8561884760856628
+    },
+    {
+        "anchor_idx": 824,
+        "negative_idx": 842,
+        "distance": 0.926211416721344
+    },
+    {
+        "anchor_idx": 825,
+        "negative_idx": 979,
+        "distance": 0.9309387803077698
+    },
+    {
+        "anchor_idx": 826,
+        "negative_idx": 49,
+        "distance": 0.7848745584487915
+    },
+    {
+        "anchor_idx": 827,
+        "negative_idx": 156,
+        "distance": 0.8684642314910889
+    },
+    {
+        "anchor_idx": 828,
+        "negative_idx": 1054,
+        "distance": 0.7253557443618774
+    },
+    {
+        "anchor_idx": 829,
+        "negative_idx": 661,
+        "distance": 0.9117314219474792
+    },
+    {
+        "anchor_idx": 830,
+        "negative_idx": 849,
+        "distance": 0.8765866160392761
+    },
+    {
+        "anchor_idx": 831,
+        "negative_idx": 518,
+        "distance": 0.9012580513954163
+    },
+    {
+        "anchor_idx": 832,
+        "negative_idx": 56,
+        "distance": 0.9063080549240112
+    },
+    {
+        "anchor_idx": 833,
+        "negative_idx": 816,
+        "distance": 0.7509649991989136
+    },
+    {
+        "anchor_idx": 834,
+        "negative_idx": 665,
+        "distance": 0.8638732433319092
+    },
+    {
+        "anchor_idx": 835,
+        "negative_idx": 606,
+        "distance": 0.7157040238380432
+    },
+    {
+        "anchor_idx": 836,
+        "negative_idx": 518,
+        "distance": 0.9205668568611145
+    },
+    {
+        "anchor_idx": 837,
+        "negative_idx": 1288,
+        "distance": 0.7751184701919556
+    },
+    {
+        "anchor_idx": 838,
+        "negative_idx": 602,
+        "distance": 1.0243314504623413
+    },
+    {
+        "anchor_idx": 839,
+        "negative_idx": 598,
+        "distance": 1.0046836137771606
+    },
+    {
+        "anchor_idx": 840,
+        "negative_idx": 49,
+        "distance": 0.8775556087493896
+    },
+    {
+        "anchor_idx": 841,
+        "negative_idx": 386,
+        "distance": 0.8998699188232422
+    },
+    {
+        "anchor_idx": 842,
+        "negative_idx": 148,
+        "distance": 0.7931244373321533
+    },
+    {
+        "anchor_idx": 843,
+        "negative_idx": 826,
+        "distance": 1.2655364274978638
+    },
+    {
+        "anchor_idx": 844,
+        "negative_idx": 389,
+        "distance": 0.8376379609107971
+    },
+    {
+        "anchor_idx": 845,
+        "negative_idx": 183,
+        "distance": 1.0449362993240356
+    },
+    {
+        "anchor_idx": 846,
+        "negative_idx": 404,
+        "distance": 0.8990215063095093
+    },
+    {
+        "anchor_idx": 847,
+        "negative_idx": 135,
+        "distance": 0.9053611755371094
+    },
+    {
+        "anchor_idx": 848,
+        "negative_idx": 1167,
+        "distance": 1.1713463068008423
+    },
+    {
+        "anchor_idx": 849,
+        "negative_idx": 700,
+        "distance": 0.783233106136322
+    },
+    {
+        "anchor_idx": 850,
+        "negative_idx": 1013,
+        "distance": 0.9196231365203857
+    },
+    {
+        "anchor_idx": 851,
+        "negative_idx": 365,
+        "distance": 0.8322786688804626
+    },
+    {
+        "anchor_idx": 852,
+        "negative_idx": 203,
+        "distance": 0.8564340472221375
+    },
+    {
+        "anchor_idx": 853,
+        "negative_idx": 734,
+        "distance": 0.8891583681106567
+    },
+    {
+        "anchor_idx": 854,
+        "negative_idx": 786,
+        "distance": 0.8149082660675049
+    },
+    {
+        "anchor_idx": 855,
+        "negative_idx": 81,
+        "distance": 1.0532159805297852
+    },
+    {
+        "anchor_idx": 856,
+        "negative_idx": 338,
+        "distance": 0.8014484643936157
+    },
+    {
+        "anchor_idx": 857,
+        "negative_idx": 88,
+        "distance": 0.7466333508491516
+    },
+    {
+        "anchor_idx": 858,
+        "negative_idx": 1297,
+        "distance": 0.96546870470047
+    },
+    {
+        "anchor_idx": 859,
+        "negative_idx": 665,
+        "distance": 1.139194130897522
+    },
+    {
+        "anchor_idx": 860,
+        "negative_idx": 546,
+        "distance": 1.1016340255737305
+    },
+    {
+        "anchor_idx": 861,
+        "negative_idx": 463,
+        "distance": 1.1650642156600952
+    },
+    {
+        "anchor_idx": 862,
+        "negative_idx": 142,
+        "distance": 0.928936779499054
+    },
+    {
+        "anchor_idx": 863,
+        "negative_idx": 322,
+        "distance": 1.2376693487167358
+    },
+    {
+        "anchor_idx": 864,
+        "negative_idx": 1254,
+        "distance": 1.0893651247024536
+    },
+    {
+        "anchor_idx": 865,
+        "negative_idx": 880,
+        "distance": 0.9184627532958984
+    },
+    {
+        "anchor_idx": 866,
+        "negative_idx": 790,
+        "distance": 1.046521782875061
+    },
+    {
+        "anchor_idx": 867,
+        "negative_idx": 242,
+        "distance": 1.0477153062820435
+    },
+    {
+        "anchor_idx": 868,
+        "negative_idx": 1037,
+        "distance": 1.0208200216293335
+    },
+    {
+        "anchor_idx": 869,
+        "negative_idx": 958,
+        "distance": 1.4019677639007568
+    },
+    {
+        "anchor_idx": 870,
+        "negative_idx": 620,
+        "distance": 0.866972804069519
+    },
+    {
+        "anchor_idx": 871,
+        "negative_idx": 552,
+        "distance": 0.7413979172706604
+    },
+    {
+        "anchor_idx": 872,
+        "negative_idx": 164,
+        "distance": 0.8585080504417419
+    },
+    {
+        "anchor_idx": 873,
+        "negative_idx": 713,
+        "distance": 0.7931845188140869
+    },
+    {
+        "anchor_idx": 874,
+        "negative_idx": 453,
+        "distance": 0.8396894931793213
+    },
+    {
+        "anchor_idx": 875,
+        "negative_idx": 1132,
+        "distance": 0.8675013184547424
+    },
+    {
+        "anchor_idx": 876,
+        "negative_idx": 740,
+        "distance": 0.7791315913200378
+    },
+    {
+        "anchor_idx": 877,
+        "negative_idx": 456,
+        "distance": 0.9495620131492615
+    },
+    {
+        "anchor_idx": 878,
+        "negative_idx": 1212,
+        "distance": 0.7995548844337463
+    },
+    {
+        "anchor_idx": 879,
+        "negative_idx": 495,
+        "distance": 0.8635970950126648
+    },
+    {
+        "anchor_idx": 880,
+        "negative_idx": 1022,
+        "distance": 0.7561413049697876
+    },
+    {
+        "anchor_idx": 881,
+        "negative_idx": 81,
+        "distance": 0.7756337523460388
+    },
+    {
+        "anchor_idx": 882,
+        "negative_idx": 461,
+        "distance": 1.194685697555542
+    },
+    {
+        "anchor_idx": 883,
+        "negative_idx": 444,
+        "distance": 0.8005464673042297
+    },
+    {
+        "anchor_idx": 884,
+        "negative_idx": 552,
+        "distance": 0.7366061210632324
+    },
+    {
+        "anchor_idx": 885,
+        "negative_idx": 740,
+        "distance": 0.862056314945221
+    },
+    {
+        "anchor_idx": 886,
+        "negative_idx": 1300,
+        "distance": 0.7657642364501953
+    },
+    {
+        "anchor_idx": 887,
+        "negative_idx": 892,
+        "distance": 0.8750565052032471
+    },
+    {
+        "anchor_idx": 888,
+        "negative_idx": 922,
+        "distance": 1.004284381866455
+    },
+    {
+        "anchor_idx": 889,
+        "negative_idx": 1316,
+        "distance": 1.0174187421798706
+    },
+    {
+        "anchor_idx": 890,
+        "negative_idx": 1252,
+        "distance": 0.7267163991928101
+    },
+    {
+        "anchor_idx": 891,
+        "negative_idx": 1124,
+        "distance": 0.9479214549064636
+    },
+    {
+        "anchor_idx": 892,
+        "negative_idx": 1022,
+        "distance": 0.7513576149940491
+    },
+    {
+        "anchor_idx": 893,
+        "negative_idx": 641,
+        "distance": 0.844092845916748
+    },
+    {
+        "anchor_idx": 894,
+        "negative_idx": 652,
+        "distance": 0.8598751425743103
+    },
+    {
+        "anchor_idx": 895,
+        "negative_idx": 1124,
+        "distance": 1.10599946975708
+    },
+    {
+        "anchor_idx": 896,
+        "negative_idx": 595,
+        "distance": 0.7467080950737
+    },
+    {
+        "anchor_idx": 897,
+        "negative_idx": 1145,
+        "distance": 0.8743079900741577
+    },
+    {
+        "anchor_idx": 898,
+        "negative_idx": 206,
+        "distance": 0.8797850608825684
+    },
+    {
+        "anchor_idx": 899,
+        "negative_idx": 1252,
+        "distance": 0.7632645964622498
+    },
+    {
+        "anchor_idx": 900,
+        "negative_idx": 155,
+        "distance": 0.7373632192611694
+    },
+    {
+        "anchor_idx": 901,
+        "negative_idx": 716,
+        "distance": 0.7829295992851257
+    },
+    {
+        "anchor_idx": 902,
+        "negative_idx": 206,
+        "distance": 0.8277302980422974
+    },
+    {
+        "anchor_idx": 903,
+        "negative_idx": 1307,
+        "distance": 0.762913703918457
+    },
+    {
+        "anchor_idx": 904,
+        "negative_idx": 963,
+        "distance": 0.8428905606269836
+    },
+    {
+        "anchor_idx": 905,
+        "negative_idx": 1231,
+        "distance": 0.8025993704795837
+    },
+    {
+        "anchor_idx": 906,
+        "negative_idx": 1231,
+        "distance": 0.7470640540122986
+    },
+    {
+        "anchor_idx": 907,
+        "negative_idx": 410,
+        "distance": 0.8278615474700928
+    },
+    {
+        "anchor_idx": 908,
+        "negative_idx": 721,
+        "distance": 0.8786147832870483
+    },
+    {
+        "anchor_idx": 909,
+        "negative_idx": 547,
+        "distance": 0.9187329411506653
+    },
+    {
+        "anchor_idx": 910,
+        "negative_idx": 363,
+        "distance": 0.7933981418609619
+    },
+    {
+        "anchor_idx": 911,
+        "negative_idx": 536,
+        "distance": 0.8625200986862183
+    },
+    {
+        "anchor_idx": 912,
+        "negative_idx": 740,
+        "distance": 0.741968035697937
+    },
+    {
+        "anchor_idx": 913,
+        "negative_idx": 652,
+        "distance": 1.074597716331482
+    },
+    {
+        "anchor_idx": 914,
+        "negative_idx": 478,
+        "distance": 0.8419455289840698
+    },
+    {
+        "anchor_idx": 915,
+        "negative_idx": 494,
+        "distance": 0.8204538822174072
+    },
+    {
+        "anchor_idx": 916,
+        "negative_idx": 547,
+        "distance": 0.9990716576576233
+    },
+    {
+        "anchor_idx": 917,
+        "negative_idx": 170,
+        "distance": 0.9042450189590454
+    },
+    {
+        "anchor_idx": 918,
+        "negative_idx": 740,
+        "distance": 0.7695476412773132
+    },
+    {
+        "anchor_idx": 919,
+        "negative_idx": 552,
+        "distance": 0.7467589378356934
+    },
+    {
+        "anchor_idx": 920,
+        "negative_idx": 762,
+        "distance": 0.8134872913360596
+    },
+    {
+        "anchor_idx": 921,
+        "negative_idx": 767,
+        "distance": 1.1187382936477661
+    },
+    {
+        "anchor_idx": 922,
+        "negative_idx": 1124,
+        "distance": 0.8962733149528503
+    },
+    {
+        "anchor_idx": 923,
+        "negative_idx": 456,
+        "distance": 0.8879727721214294
+    },
+    {
+        "anchor_idx": 924,
+        "negative_idx": 203,
+        "distance": 0.6923500299453735
+    },
+    {
+        "anchor_idx": 925,
+        "negative_idx": 577,
+        "distance": 1.3819644451141357
+    },
+    {
+        "anchor_idx": 926,
+        "negative_idx": 237,
+        "distance": 0.9439579844474792
+    },
+    {
+        "anchor_idx": 927,
+        "negative_idx": 203,
+        "distance": 0.7671617269515991
+    },
+    {
+        "anchor_idx": 928,
+        "negative_idx": 454,
+        "distance": 0.8464339375495911
+    },
+    {
+        "anchor_idx": 929,
+        "negative_idx": 1301,
+        "distance": 0.8589985966682434
+    },
+    {
+        "anchor_idx": 930,
+        "negative_idx": 199,
+        "distance": 0.9451661109924316
+    },
+    {
+        "anchor_idx": 931,
+        "negative_idx": 1240,
+        "distance": 0.8631041646003723
+    },
+    {
+        "anchor_idx": 932,
+        "negative_idx": 1003,
+        "distance": 0.7648641467094421
+    },
+    {
+        "anchor_idx": 933,
+        "negative_idx": 740,
+        "distance": 0.7746179103851318
+    },
+    {
+        "anchor_idx": 934,
+        "negative_idx": 508,
+        "distance": 1.0125596523284912
+    },
+    {
+        "anchor_idx": 935,
+        "negative_idx": 1078,
+        "distance": 0.8857862949371338
+    },
+    {
+        "anchor_idx": 936,
+        "negative_idx": 1316,
+        "distance": 0.9476344585418701
+    },
+    {
+        "anchor_idx": 937,
+        "negative_idx": 770,
+        "distance": 0.8803707361221313
+    },
+    {
+        "anchor_idx": 938,
+        "negative_idx": 721,
+        "distance": 0.8202396035194397
+    },
+    {
+        "anchor_idx": 939,
+        "negative_idx": 428,
+        "distance": 0.8477367758750916
+    },
+    {
+        "anchor_idx": 940,
+        "negative_idx": 239,
+        "distance": 0.8003661632537842
+    },
+    {
+        "anchor_idx": 941,
+        "negative_idx": 506,
+        "distance": 0.975037157535553
+    },
+    {
+        "anchor_idx": 942,
+        "negative_idx": 716,
+        "distance": 0.7224912047386169
+    },
+    {
+        "anchor_idx": 943,
+        "negative_idx": 552,
+        "distance": 0.7749966979026794
+    },
+    {
+        "anchor_idx": 944,
+        "negative_idx": 199,
+        "distance": 0.757925808429718
+    },
+    {
+        "anchor_idx": 945,
+        "negative_idx": 1138,
+        "distance": 0.8923504948616028
+    },
+    {
+        "anchor_idx": 946,
+        "negative_idx": 457,
+        "distance": 1.0308243036270142
+    },
+    {
+        "anchor_idx": 947,
+        "negative_idx": 1241,
+        "distance": 0.8426191210746765
+    },
+    {
+        "anchor_idx": 948,
+        "negative_idx": 1240,
+        "distance": 0.8850889801979065
+    },
+    {
+        "anchor_idx": 949,
+        "negative_idx": 1344,
+        "distance": 0.9546010494232178
+    },
+    {
+        "anchor_idx": 950,
+        "negative_idx": 511,
+        "distance": 0.8918194770812988
+    },
+    {
+        "anchor_idx": 951,
+        "negative_idx": 762,
+        "distance": 0.818493664264679
+    },
+    {
+        "anchor_idx": 952,
+        "negative_idx": 470,
+        "distance": 0.9489387273788452
+    },
+    {
+        "anchor_idx": 953,
+        "negative_idx": 1116,
+        "distance": 0.9741203188896179
+    },
+    {
+        "anchor_idx": 954,
+        "negative_idx": 1120,
+        "distance": 0.9252297878265381
+    },
+    {
+        "anchor_idx": 955,
+        "negative_idx": 752,
+        "distance": 0.7528822422027588
+    },
+    {
+        "anchor_idx": 956,
+        "negative_idx": 1000,
+        "distance": 0.7516012787818909
+    },
+    {
+        "anchor_idx": 957,
+        "negative_idx": 548,
+        "distance": 0.9895839095115662
+    },
+    {
+        "anchor_idx": 958,
+        "negative_idx": 787,
+        "distance": 0.9491465091705322
+    },
+    {
+        "anchor_idx": 959,
+        "negative_idx": 419,
+        "distance": 0.7743397355079651
+    },
+    {
+        "anchor_idx": 960,
+        "negative_idx": 246,
+        "distance": 0.8362820148468018
+    },
+    {
+        "anchor_idx": 961,
+        "negative_idx": 239,
+        "distance": 0.7381761074066162
+    },
+    {
+        "anchor_idx": 962,
+        "negative_idx": 1238,
+        "distance": 0.8798315525054932
+    },
+    {
+        "anchor_idx": 963,
+        "negative_idx": 341,
+        "distance": 0.8099976181983948
+    },
+    {
+        "anchor_idx": 964,
+        "negative_idx": 456,
+        "distance": 0.8379824757575989
+    },
+    {
+        "anchor_idx": 965,
+        "negative_idx": 188,
+        "distance": 0.7755276560783386
+    },
+    {
+        "anchor_idx": 966,
+        "negative_idx": 622,
+        "distance": 0.9294190406799316
+    },
+    {
+        "anchor_idx": 967,
+        "negative_idx": 608,
+        "distance": 0.7937038540840149
+    },
+    {
+        "anchor_idx": 968,
+        "negative_idx": 609,
+        "distance": 0.7941651940345764
+    },
+    {
+        "anchor_idx": 969,
+        "negative_idx": 1243,
+        "distance": 0.7970076203346252
+    },
+    {
+        "anchor_idx": 970,
+        "negative_idx": 1009,
+        "distance": 0.7970114946365356
+    },
+    {
+        "anchor_idx": 971,
+        "negative_idx": 464,
+        "distance": 1.059782862663269
+    },
+    {
+        "anchor_idx": 972,
+        "negative_idx": 516,
+        "distance": 0.8573740720748901
+    },
+    {
+        "anchor_idx": 973,
+        "negative_idx": 1145,
+        "distance": 0.8899136185646057
+    },
+    {
+        "anchor_idx": 974,
+        "negative_idx": 1241,
+        "distance": 0.7969009876251221
+    },
+    {
+        "anchor_idx": 975,
+        "negative_idx": 393,
+        "distance": 0.7893917560577393
+    },
+    {
+        "anchor_idx": 976,
+        "negative_idx": 1158,
+        "distance": 1.092719316482544
+    },
+    {
+        "anchor_idx": 977,
+        "negative_idx": 333,
+        "distance": 0.8077663779258728
+    },
+    {
+        "anchor_idx": 978,
+        "negative_idx": 333,
+        "distance": 0.9834304451942444
+    },
+    {
+        "anchor_idx": 979,
+        "negative_idx": 816,
+        "distance": 0.7779515385627747
+    },
+    {
+        "anchor_idx": 980,
+        "negative_idx": 833,
+        "distance": 0.8975062966346741
+    },
+    {
+        "anchor_idx": 981,
+        "negative_idx": 396,
+        "distance": 1.1633108854293823
+    },
+    {
+        "anchor_idx": 982,
+        "negative_idx": 675,
+        "distance": 0.9996145963668823
+    },
+    {
+        "anchor_idx": 983,
+        "negative_idx": 1052,
+        "distance": 0.9104828834533691
+    },
+    {
+        "anchor_idx": 984,
+        "negative_idx": 167,
+        "distance": 0.9315205812454224
+    },
+    {
+        "anchor_idx": 985,
+        "negative_idx": 258,
+        "distance": 0.8305234909057617
+    },
+    {
+        "anchor_idx": 986,
+        "negative_idx": 1037,
+        "distance": 1.0262665748596191
+    },
+    {
+        "anchor_idx": 987,
+        "negative_idx": 770,
+        "distance": 0.692803144454956
+    },
+    {
+        "anchor_idx": 988,
+        "negative_idx": 781,
+        "distance": 0.9085584282875061
+    },
+    {
+        "anchor_idx": 989,
+        "negative_idx": 14,
+        "distance": 0.7840795516967773
+    },
+    {
+        "anchor_idx": 990,
+        "negative_idx": 364,
+        "distance": 0.7939643859863281
+    },
+    {
+        "anchor_idx": 991,
+        "negative_idx": 197,
+        "distance": 0.7455779910087585
+    },
+    {
+        "anchor_idx": 992,
+        "negative_idx": 124,
+        "distance": 0.7560909986495972
+    },
+    {
+        "anchor_idx": 993,
+        "negative_idx": 497,
+        "distance": 0.7983477115631104
+    },
+    {
+        "anchor_idx": 994,
+        "negative_idx": 905,
+        "distance": 1.127336025238037
+    },
+    {
+        "anchor_idx": 995,
+        "negative_idx": 554,
+        "distance": 0.8445578217506409
+    },
+    {
+        "anchor_idx": 996,
+        "negative_idx": 555,
+        "distance": 1.0259445905685425
+    },
+    {
+        "anchor_idx": 997,
+        "negative_idx": 544,
+        "distance": 0.8811315298080444
+    },
+    {
+        "anchor_idx": 998,
+        "negative_idx": 554,
+        "distance": 0.7262923717498779
+    },
+    {
+        "anchor_idx": 999,
+        "negative_idx": 637,
+        "distance": 0.929599940776825
+    },
+    {
+        "anchor_idx": 1000,
+        "negative_idx": 956,
+        "distance": 0.7515951991081238
+    },
+    {
+        "anchor_idx": 1001,
+        "negative_idx": 1245,
+        "distance": 0.937370777130127
+    },
+    {
+        "anchor_idx": 1002,
+        "negative_idx": 1123,
+        "distance": 1.0970759391784668
+    },
+    {
+        "anchor_idx": 1003,
+        "negative_idx": 1154,
+        "distance": 0.6824121475219727
+    },
+    {
+        "anchor_idx": 1004,
+        "negative_idx": 808,
+        "distance": 1.190756916999817
+    },
+    {
+        "anchor_idx": 1005,
+        "negative_idx": 393,
+        "distance": 0.808293879032135
+    },
+    {
+        "anchor_idx": 1006,
+        "negative_idx": 365,
+        "distance": 0.8339172601699829
+    },
+    {
+        "anchor_idx": 1007,
+        "negative_idx": 209,
+        "distance": 0.7562584280967712
+    },
+    {
+        "anchor_idx": 1008,
+        "negative_idx": 209,
+        "distance": 0.6913411617279053
+    },
+    {
+        "anchor_idx": 1009,
+        "negative_idx": 270,
+        "distance": 0.7795553803443909
+    },
+    {
+        "anchor_idx": 1010,
+        "negative_idx": 1174,
+        "distance": 1.1656596660614014
+    },
+    {
+        "anchor_idx": 1011,
+        "negative_idx": 1074,
+        "distance": 1.1952811479568481
+    },
+    {
+        "anchor_idx": 1012,
+        "negative_idx": 142,
+        "distance": 1.2677274942398071
+    },
+    {
+        "anchor_idx": 1013,
+        "negative_idx": 700,
+        "distance": 0.7726747989654541
+    },
+    {
+        "anchor_idx": 1014,
+        "negative_idx": 170,
+        "distance": 0.8500630855560303
+    },
+    {
+        "anchor_idx": 1015,
+        "negative_idx": 489,
+        "distance": 1.1645162105560303
+    },
+    {
+        "anchor_idx": 1016,
+        "negative_idx": 372,
+        "distance": 1.1051899194717407
+    },
+    {
+        "anchor_idx": 1017,
+        "negative_idx": 144,
+        "distance": 0.9206390976905823
+    },
+    {
+        "anchor_idx": 1018,
+        "negative_idx": 896,
+        "distance": 0.759618878364563
+    },
+    {
+        "anchor_idx": 1019,
+        "negative_idx": 848,
+        "distance": 1.1759508848190308
+    },
+    {
+        "anchor_idx": 1020,
+        "negative_idx": 203,
+        "distance": 0.8985623717308044
+    },
+    {
+        "anchor_idx": 1021,
+        "negative_idx": 512,
+        "distance": 1.1996015310287476
+    },
+    {
+        "anchor_idx": 1022,
+        "negative_idx": 209,
+        "distance": 0.6233881711959839
+    },
+    {
+        "anchor_idx": 1023,
+        "negative_idx": 1281,
+        "distance": 0.8796713352203369
+    },
+    {
+        "anchor_idx": 1024,
+        "negative_idx": 215,
+        "distance": 1.1915500164031982
+    },
+    {
+        "anchor_idx": 1025,
+        "negative_idx": 1182,
+        "distance": 1.2105263471603394
+    },
+    {
+        "anchor_idx": 1026,
+        "negative_idx": 1070,
+        "distance": 1.1851826906204224
+    },
+    {
+        "anchor_idx": 1027,
+        "negative_idx": 1175,
+        "distance": 0.9802361726760864
+    },
+    {
+        "anchor_idx": 1028,
+        "negative_idx": 922,
+        "distance": 1.1414060592651367
+    },
+    {
+        "anchor_idx": 1029,
+        "negative_idx": 832,
+        "distance": 1.0054908990859985
+    },
+    {
+        "anchor_idx": 1030,
+        "negative_idx": 733,
+        "distance": 0.9127371311187744
+    },
+    {
+        "anchor_idx": 1031,
+        "negative_idx": 1071,
+        "distance": 1.5493508577346802
+    },
+    {
+        "anchor_idx": 1032,
+        "negative_idx": 697,
+        "distance": 0.9725981950759888
+    },
+    {
+        "anchor_idx": 1033,
+        "negative_idx": 1148,
+        "distance": 0.9479241967201233
+    },
+    {
+        "anchor_idx": 1034,
+        "negative_idx": 781,
+        "distance": 0.826890766620636
+    },
+    {
+        "anchor_idx": 1035,
+        "negative_idx": 145,
+        "distance": 1.0109370946884155
+    },
+    {
+        "anchor_idx": 1036,
+        "negative_idx": 713,
+        "distance": 0.977458119392395
+    },
+    {
+        "anchor_idx": 1037,
+        "negative_idx": 1299,
+        "distance": 0.9353352189064026
+    },
+    {
+        "anchor_idx": 1038,
+        "negative_idx": 554,
+        "distance": 1.178959608078003
+    },
+    {
+        "anchor_idx": 1039,
+        "negative_idx": 713,
+        "distance": 0.9881802201271057
+    },
+    {
+        "anchor_idx": 1040,
+        "negative_idx": 1104,
+        "distance": 1.0038632154464722
+    },
+    {
+        "anchor_idx": 1041,
+        "negative_idx": 1182,
+        "distance": 1.2553588151931763
+    },
+    {
+        "anchor_idx": 1042,
+        "negative_idx": 176,
+        "distance": 1.0477986335754395
+    },
+    {
+        "anchor_idx": 1043,
+        "negative_idx": 1148,
+        "distance": 1.024120807647705
+    },
+    {
+        "anchor_idx": 1044,
+        "negative_idx": 527,
+        "distance": 1.2003130912780762
+    },
+    {
+        "anchor_idx": 1045,
+        "negative_idx": 1148,
+        "distance": 0.9147793650627136
+    },
+    {
+        "anchor_idx": 1046,
+        "negative_idx": 1148,
+        "distance": 0.9188321828842163
+    },
+    {
+        "anchor_idx": 1047,
+        "negative_idx": 1150,
+        "distance": 0.8352845311164856
+    },
+    {
+        "anchor_idx": 1048,
+        "negative_idx": 840,
+        "distance": 1.0559983253479004
+    },
+    {
+        "anchor_idx": 1049,
+        "negative_idx": 526,
+        "distance": 1.0280762910842896
+    },
+    {
+        "anchor_idx": 1050,
+        "negative_idx": 1260,
+        "distance": 0.9334179162979126
+    },
+    {
+        "anchor_idx": 1051,
+        "negative_idx": 49,
+        "distance": 0.828793466091156
+    },
+    {
+        "anchor_idx": 1052,
+        "negative_idx": 144,
+        "distance": 0.8832646608352661
+    },
+    {
+        "anchor_idx": 1053,
+        "negative_idx": 713,
+        "distance": 0.9113370776176453
+    },
+    {
+        "anchor_idx": 1054,
+        "negative_idx": 828,
+        "distance": 0.7253581881523132
+    },
+    {
+        "anchor_idx": 1055,
+        "negative_idx": 1139,
+        "distance": 0.7964948415756226
+    },
+    {
+        "anchor_idx": 1056,
+        "negative_idx": 377,
+        "distance": 0.9011041522026062
+    },
+    {
+        "anchor_idx": 1057,
+        "negative_idx": 317,
+        "distance": 1.0063621997833252
+    },
+    {
+        "anchor_idx": 1058,
+        "negative_idx": 1148,
+        "distance": 0.8878456354141235
+    },
+    {
+        "anchor_idx": 1059,
+        "negative_idx": 144,
+        "distance": 0.9658689498901367
+    },
+    {
+        "anchor_idx": 1060,
+        "negative_idx": 59,
+        "distance": 1.0709158182144165
+    },
+    {
+        "anchor_idx": 1061,
+        "negative_idx": 144,
+        "distance": 0.8417982459068298
+    },
+    {
+        "anchor_idx": 1062,
+        "negative_idx": 1022,
+        "distance": 1.0806787014007568
+    },
+    {
+        "anchor_idx": 1063,
+        "negative_idx": 206,
+        "distance": 0.955393373966217
+    },
+    {
+        "anchor_idx": 1064,
+        "negative_idx": 944,
+        "distance": 0.8623288869857788
+    },
+    {
+        "anchor_idx": 1065,
+        "negative_idx": 339,
+        "distance": 1.1509432792663574
+    },
+    {
+        "anchor_idx": 1066,
+        "negative_idx": 1148,
+        "distance": 1.0669938325881958
+    },
+    {
+        "anchor_idx": 1067,
+        "negative_idx": 32,
+        "distance": 1.3302561044692993
+    },
+    {
+        "anchor_idx": 1068,
+        "negative_idx": 670,
+        "distance": 1.3014682531356812
+    },
+    {
+        "anchor_idx": 1069,
+        "negative_idx": 1148,
+        "distance": 1.0389175415039062
+    },
+    {
+        "anchor_idx": 1070,
+        "negative_idx": 1124,
+        "distance": 0.953283965587616
+    },
+    {
+        "anchor_idx": 1071,
+        "negative_idx": 451,
+        "distance": 1.1864310503005981
+    },
+    {
+        "anchor_idx": 1072,
+        "negative_idx": 1124,
+        "distance": 1.0570029020309448
+    },
+    {
+        "anchor_idx": 1073,
+        "negative_idx": 697,
+        "distance": 0.8744608163833618
+    },
+    {
+        "anchor_idx": 1074,
+        "negative_idx": 1347,
+        "distance": 1.004004955291748
+    },
+    {
+        "anchor_idx": 1075,
+        "negative_idx": 697,
+        "distance": 0.8802593350410461
+    },
+    {
+        "anchor_idx": 1076,
+        "negative_idx": 715,
+        "distance": 1.2544198036193848
+    },
+    {
+        "anchor_idx": 1077,
+        "negative_idx": 242,
+        "distance": 0.9250652194023132
+    },
+    {
+        "anchor_idx": 1078,
+        "negative_idx": 1147,
+        "distance": 0.7886815071105957
+    },
+    {
+        "anchor_idx": 1079,
+        "negative_idx": 1148,
+        "distance": 1.0521715879440308
+    },
+    {
+        "anchor_idx": 1080,
+        "negative_idx": 115,
+        "distance": 0.9873887300491333
+    },
+    {
+        "anchor_idx": 1081,
+        "negative_idx": 1210,
+        "distance": 1.0297904014587402
+    },
+    {
+        "anchor_idx": 1082,
+        "negative_idx": 1103,
+        "distance": 0.871889591217041
+    },
+    {
+        "anchor_idx": 1083,
+        "negative_idx": 939,
+        "distance": 1.0623544454574585
+    },
+    {
+        "anchor_idx": 1084,
+        "negative_idx": 1324,
+        "distance": 0.7522367835044861
+    },
+    {
+        "anchor_idx": 1085,
+        "negative_idx": 375,
+        "distance": 0.9892379641532898
+    },
+    {
+        "anchor_idx": 1086,
+        "negative_idx": 1324,
+        "distance": 0.8897779583930969
+    },
+    {
+        "anchor_idx": 1087,
+        "negative_idx": 248,
+        "distance": 0.955185055732727
+    },
+    {
+        "anchor_idx": 1088,
+        "negative_idx": 1124,
+        "distance": 1.1235873699188232
+    },
+    {
+        "anchor_idx": 1089,
+        "negative_idx": 898,
+        "distance": 0.9525214433670044
+    },
+    {
+        "anchor_idx": 1090,
+        "negative_idx": 308,
+        "distance": 1.1406745910644531
+    },
+    {
+        "anchor_idx": 1091,
+        "negative_idx": 454,
+        "distance": 0.8350821137428284
+    },
+    {
+        "anchor_idx": 1092,
+        "negative_idx": 234,
+        "distance": 0.83487468957901
+    },
+    {
+        "anchor_idx": 1093,
+        "negative_idx": 1140,
+        "distance": 0.8404025435447693
+    },
+    {
+        "anchor_idx": 1094,
+        "negative_idx": 798,
+        "distance": 0.8806033730506897
+    },
+    {
+        "anchor_idx": 1095,
+        "negative_idx": 155,
+        "distance": 1.0188014507293701
+    },
+    {
+        "anchor_idx": 1096,
+        "negative_idx": 66,
+        "distance": 0.8056732416152954
+    },
+    {
+        "anchor_idx": 1097,
+        "negative_idx": 896,
+        "distance": 0.775958240032196
+    },
+    {
+        "anchor_idx": 1098,
+        "negative_idx": 278,
+        "distance": 0.8649875521659851
+    },
+    {
+        "anchor_idx": 1099,
+        "negative_idx": 898,
+        "distance": 1.0127078294754028
+    },
+    {
+        "anchor_idx": 1100,
+        "negative_idx": 1175,
+        "distance": 0.9627360105514526
+    },
+    {
+        "anchor_idx": 1101,
+        "negative_idx": 357,
+        "distance": 1.1389187574386597
+    },
+    {
+        "anchor_idx": 1102,
+        "negative_idx": 792,
+        "distance": 0.7696231007575989
+    },
+    {
+        "anchor_idx": 1103,
+        "negative_idx": 2,
+        "distance": 0.7041118741035461
+    },
+    {
+        "anchor_idx": 1104,
+        "negative_idx": 1022,
+        "distance": 0.865371584892273
+    },
+    {
+        "anchor_idx": 1105,
+        "negative_idx": 902,
+        "distance": 0.8858100175857544
+    },
+    {
+        "anchor_idx": 1106,
+        "negative_idx": 771,
+        "distance": 0.7847268581390381
+    },
+    {
+        "anchor_idx": 1107,
+        "negative_idx": 405,
+        "distance": 0.9039630889892578
+    },
+    {
+        "anchor_idx": 1108,
+        "negative_idx": 427,
+        "distance": 0.9229602217674255
+    },
+    {
+        "anchor_idx": 1109,
+        "negative_idx": 203,
+        "distance": 0.7304764986038208
+    },
+    {
+        "anchor_idx": 1110,
+        "negative_idx": 826,
+        "distance": 1.1669028997421265
+    },
+    {
+        "anchor_idx": 1111,
+        "negative_idx": 277,
+        "distance": 0.7615476250648499
+    },
+    {
+        "anchor_idx": 1112,
+        "negative_idx": 277,
+        "distance": 0.7608065009117126
+    },
+    {
+        "anchor_idx": 1113,
+        "negative_idx": 203,
+        "distance": 0.7749781608581543
+    },
+    {
+        "anchor_idx": 1114,
+        "negative_idx": 5,
+        "distance": 1.0649694204330444
+    },
+    {
+        "anchor_idx": 1115,
+        "negative_idx": 738,
+        "distance": 0.9229220151901245
+    },
+    {
+        "anchor_idx": 1116,
+        "negative_idx": 582,
+        "distance": 0.9132518172264099
+    },
+    {
+        "anchor_idx": 1117,
+        "negative_idx": 753,
+        "distance": 0.9539889097213745
+    },
+    {
+        "anchor_idx": 1118,
+        "negative_idx": 1143,
+        "distance": 1.0162945985794067
+    },
+    {
+        "anchor_idx": 1119,
+        "negative_idx": 944,
+        "distance": 0.9828987717628479
+    },
+    {
+        "anchor_idx": 1120,
+        "negative_idx": 547,
+        "distance": 0.8652210831642151
+    },
+    {
+        "anchor_idx": 1121,
+        "negative_idx": 176,
+        "distance": 0.7974792718887329
+    },
+    {
+        "anchor_idx": 1122,
+        "negative_idx": 1208,
+        "distance": 0.8595037460327148
+    },
+    {
+        "anchor_idx": 1123,
+        "negative_idx": 243,
+        "distance": 0.9057844281196594
+    },
+    {
+        "anchor_idx": 1124,
+        "negative_idx": 180,
+        "distance": 0.8218876123428345
+    },
+    {
+        "anchor_idx": 1125,
+        "negative_idx": 381,
+        "distance": 1.0610718727111816
+    },
+    {
+        "anchor_idx": 1126,
+        "negative_idx": 505,
+        "distance": 0.7984117269515991
+    },
+    {
+        "anchor_idx": 1127,
+        "negative_idx": 547,
+        "distance": 0.8481358289718628
+    },
+    {
+        "anchor_idx": 1128,
+        "negative_idx": 897,
+        "distance": 1.0254029035568237
+    },
+    {
+        "anchor_idx": 1129,
+        "negative_idx": 1325,
+        "distance": 0.7655410766601562
+    },
+    {
+        "anchor_idx": 1130,
+        "negative_idx": 1137,
+        "distance": 0.8806777596473694
+    },
+    {
+        "anchor_idx": 1131,
+        "negative_idx": 1154,
+        "distance": 0.8567666411399841
+    },
+    {
+        "anchor_idx": 1132,
+        "negative_idx": 742,
+        "distance": 0.7962554097175598
+    },
+    {
+        "anchor_idx": 1133,
+        "negative_idx": 1022,
+        "distance": 0.7326210141181946
+    },
+    {
+        "anchor_idx": 1134,
+        "negative_idx": 640,
+        "distance": 0.8800953030586243
+    },
+    {
+        "anchor_idx": 1135,
+        "negative_idx": 1233,
+        "distance": 1.3622517585754395
+    },
+    {
+        "anchor_idx": 1136,
+        "negative_idx": 135,
+        "distance": 0.9135278463363647
+    },
+    {
+        "anchor_idx": 1137,
+        "negative_idx": 203,
+        "distance": 0.7204329371452332
+    },
+    {
+        "anchor_idx": 1138,
+        "negative_idx": 945,
+        "distance": 0.8923511505126953
+    },
+    {
+        "anchor_idx": 1139,
+        "negative_idx": 66,
+        "distance": 0.7511510848999023
+    },
+    {
+        "anchor_idx": 1140,
+        "negative_idx": 2,
+        "distance": 0.7314401268959045
+    },
+    {
+        "anchor_idx": 1141,
+        "negative_idx": 198,
+        "distance": 0.7479714751243591
+    },
+    {
+        "anchor_idx": 1142,
+        "negative_idx": 403,
+        "distance": 0.9618813991546631
+    },
+    {
+        "anchor_idx": 1143,
+        "negative_idx": 158,
+        "distance": 0.7406412363052368
+    },
+    {
+        "anchor_idx": 1144,
+        "negative_idx": 975,
+        "distance": 0.9150806069374084
+    },
+    {
+        "anchor_idx": 1145,
+        "negative_idx": 766,
+        "distance": 0.7545133233070374
+    },
+    {
+        "anchor_idx": 1146,
+        "negative_idx": 203,
+        "distance": 0.7477208971977234
+    },
+    {
+        "anchor_idx": 1147,
+        "negative_idx": 890,
+        "distance": 0.7684648036956787
+    },
+    {
+        "anchor_idx": 1148,
+        "negative_idx": 816,
+        "distance": 0.7999975681304932
+    },
+    {
+        "anchor_idx": 1149,
+        "negative_idx": 132,
+        "distance": 0.8478248119354248
+    },
+    {
+        "anchor_idx": 1150,
+        "negative_idx": 1047,
+        "distance": 0.8352862000465393
+    },
+    {
+        "anchor_idx": 1151,
+        "negative_idx": 640,
+        "distance": 0.9095602631568909
+    },
+    {
+        "anchor_idx": 1152,
+        "negative_idx": 650,
+        "distance": 1.427715539932251
+    },
+    {
+        "anchor_idx": 1153,
+        "negative_idx": 1248,
+        "distance": 0.8368895649909973
+    },
+    {
+        "anchor_idx": 1154,
+        "negative_idx": 1003,
+        "distance": 0.682407557964325
+    },
+    {
+        "anchor_idx": 1155,
+        "negative_idx": 703,
+        "distance": 0.7443861365318298
+    },
+    {
+        "anchor_idx": 1156,
+        "negative_idx": 153,
+        "distance": 0.6882029175758362
+    },
+    {
+        "anchor_idx": 1157,
+        "negative_idx": 203,
+        "distance": 0.9047394394874573
+    },
+    {
+        "anchor_idx": 1158,
+        "negative_idx": 552,
+        "distance": 0.7784088850021362
+    },
+    {
+        "anchor_idx": 1159,
+        "negative_idx": 554,
+        "distance": 0.8437729477882385
+    },
+    {
+        "anchor_idx": 1160,
+        "negative_idx": 1022,
+        "distance": 0.7538246512413025
+    },
+    {
+        "anchor_idx": 1161,
+        "negative_idx": 901,
+        "distance": 0.8748592138290405
+    },
+    {
+        "anchor_idx": 1162,
+        "negative_idx": 792,
+        "distance": 0.7507738471031189
+    },
+    {
+        "anchor_idx": 1163,
+        "negative_idx": 1162,
+        "distance": 0.7691892981529236
+    },
+    {
+        "anchor_idx": 1164,
+        "negative_idx": 264,
+        "distance": 0.8884893655776978
+    },
+    {
+        "anchor_idx": 1165,
+        "negative_idx": 1327,
+        "distance": 1.0297340154647827
+    },
+    {
+        "anchor_idx": 1166,
+        "negative_idx": 1338,
+        "distance": 1.0160549879074097
+    },
+    {
+        "anchor_idx": 1167,
+        "negative_idx": 848,
+        "distance": 1.1713457107543945
+    },
+    {
+        "anchor_idx": 1168,
+        "negative_idx": 585,
+        "distance": 0.9437755346298218
+    },
+    {
+        "anchor_idx": 1169,
+        "negative_idx": 213,
+        "distance": 0.7990584969520569
+    },
+    {
+        "anchor_idx": 1170,
+        "negative_idx": 768,
+        "distance": 0.9189308285713196
+    },
+    {
+        "anchor_idx": 1171,
+        "negative_idx": 965,
+        "distance": 0.8531454801559448
+    },
+    {
+        "anchor_idx": 1172,
+        "negative_idx": 959,
+        "distance": 0.8149720430374146
+    },
+    {
+        "anchor_idx": 1173,
+        "negative_idx": 144,
+        "distance": 0.8801548480987549
+    },
+    {
+        "anchor_idx": 1174,
+        "negative_idx": 1023,
+        "distance": 0.9688652753829956
+    },
+    {
+        "anchor_idx": 1175,
+        "negative_idx": 538,
+        "distance": 0.7935662269592285
+    },
+    {
+        "anchor_idx": 1176,
+        "negative_idx": 977,
+        "distance": 1.0263088941574097
+    },
+    {
+        "anchor_idx": 1177,
+        "negative_idx": 1150,
+        "distance": 1.1465954780578613
+    },
+    {
+        "anchor_idx": 1178,
+        "negative_idx": 1037,
+        "distance": 1.078983187675476
+    },
+    {
+        "anchor_idx": 1179,
+        "negative_idx": 9,
+        "distance": 1.129549264907837
+    },
+    {
+        "anchor_idx": 1180,
+        "negative_idx": 337,
+        "distance": 0.9460629224777222
+    },
+    {
+        "anchor_idx": 1181,
+        "negative_idx": 375,
+        "distance": 0.7520621418952942
+    },
+    {
+        "anchor_idx": 1182,
+        "negative_idx": 697,
+        "distance": 1.0481492280960083
+    },
+    {
+        "anchor_idx": 1183,
+        "negative_idx": 991,
+        "distance": 0.918467104434967
+    },
+    {
+        "anchor_idx": 1184,
+        "negative_idx": 400,
+        "distance": 0.9190043807029724
+    },
+    {
+        "anchor_idx": 1185,
+        "negative_idx": 637,
+        "distance": 0.8171995282173157
+    },
+    {
+        "anchor_idx": 1186,
+        "negative_idx": 885,
+        "distance": 0.9408299326896667
+    },
+    {
+        "anchor_idx": 1187,
+        "negative_idx": 928,
+        "distance": 1.0335551500320435
+    },
+    {
+        "anchor_idx": 1188,
+        "negative_idx": 237,
+        "distance": 0.9603791832923889
+    },
+    {
+        "anchor_idx": 1189,
+        "negative_idx": 991,
+        "distance": 0.8557981252670288
+    },
+    {
+        "anchor_idx": 1190,
+        "negative_idx": 376,
+        "distance": 0.8639346361160278
+    },
+    {
+        "anchor_idx": 1191,
+        "negative_idx": 174,
+        "distance": 0.8965715765953064
+    },
+    {
+        "anchor_idx": 1192,
+        "negative_idx": 885,
+        "distance": 0.983593225479126
+    },
+    {
+        "anchor_idx": 1193,
+        "negative_idx": 740,
+        "distance": 0.7506594657897949
+    },
+    {
+        "anchor_idx": 1194,
+        "negative_idx": 952,
+        "distance": 1.1833635568618774
+    },
+    {
+        "anchor_idx": 1195,
+        "negative_idx": 393,
+        "distance": 1.008724331855774
+    },
+    {
+        "anchor_idx": 1196,
+        "negative_idx": 1156,
+        "distance": 0.8458887934684753
+    },
+    {
+        "anchor_idx": 1197,
+        "negative_idx": 176,
+        "distance": 0.7929826378822327
+    },
+    {
+        "anchor_idx": 1198,
+        "negative_idx": 144,
+        "distance": 0.8534189462661743
+    },
+    {
+        "anchor_idx": 1199,
+        "negative_idx": 570,
+        "distance": 1.057181715965271
+    },
+    {
+        "anchor_idx": 1200,
+        "negative_idx": 1158,
+        "distance": 0.9200731515884399
+    },
+    {
+        "anchor_idx": 1201,
+        "negative_idx": 1233,
+        "distance": 0.7886160612106323
+    },
+    {
+        "anchor_idx": 1202,
+        "negative_idx": 975,
+        "distance": 0.8392989635467529
+    },
+    {
+        "anchor_idx": 1203,
+        "negative_idx": 1122,
+        "distance": 0.9410325288772583
+    },
+    {
+        "anchor_idx": 1204,
+        "negative_idx": 745,
+        "distance": 0.9406386613845825
+    },
+    {
+        "anchor_idx": 1205,
+        "negative_idx": 494,
+        "distance": 0.8359031081199646
+    },
+    {
+        "anchor_idx": 1206,
+        "negative_idx": 932,
+        "distance": 0.8437802195549011
+    },
+    {
+        "anchor_idx": 1207,
+        "negative_idx": 423,
+        "distance": 0.9584283232688904
+    },
+    {
+        "anchor_idx": 1208,
+        "negative_idx": 1244,
+        "distance": 0.7596909999847412
+    },
+    {
+        "anchor_idx": 1209,
+        "negative_idx": 975,
+        "distance": 0.8684052228927612
+    },
+    {
+        "anchor_idx": 1210,
+        "negative_idx": 66,
+        "distance": 0.8303086161613464
+    },
+    {
+        "anchor_idx": 1211,
+        "negative_idx": 790,
+        "distance": 0.9793487787246704
+    },
+    {
+        "anchor_idx": 1212,
+        "negative_idx": 680,
+        "distance": 0.7662259936332703
+    },
+    {
+        "anchor_idx": 1213,
+        "negative_idx": 477,
+        "distance": 1.0400261878967285
+    },
+    {
+        "anchor_idx": 1214,
+        "negative_idx": 740,
+        "distance": 0.7613415122032166
+    },
+    {
+        "anchor_idx": 1215,
+        "negative_idx": 588,
+        "distance": 0.9548734426498413
+    },
+    {
+        "anchor_idx": 1216,
+        "negative_idx": 570,
+        "distance": 0.963085412979126
+    },
+    {
+        "anchor_idx": 1217,
+        "negative_idx": 1007,
+        "distance": 0.8752703666687012
+    },
+    {
+        "anchor_idx": 1218,
+        "negative_idx": 713,
+        "distance": 0.8520601391792297
+    },
+    {
+        "anchor_idx": 1219,
+        "negative_idx": 1197,
+        "distance": 0.9005939960479736
+    },
+    {
+        "anchor_idx": 1220,
+        "negative_idx": 157,
+        "distance": 0.8522559404373169
+    },
+    {
+        "anchor_idx": 1221,
+        "negative_idx": 1145,
+        "distance": 0.8792141079902649
+    },
+    {
+        "anchor_idx": 1222,
+        "negative_idx": 767,
+        "distance": 0.9321308135986328
+    },
+    {
+        "anchor_idx": 1223,
+        "negative_idx": 1294,
+        "distance": 0.9165873527526855
+    },
+    {
+        "anchor_idx": 1224,
+        "negative_idx": 714,
+        "distance": 0.9005853533744812
+    },
+    {
+        "anchor_idx": 1225,
+        "negative_idx": 135,
+        "distance": 1.043274164199829
+    },
+    {
+        "anchor_idx": 1226,
+        "negative_idx": 768,
+        "distance": 1.0744640827178955
+    },
+    {
+        "anchor_idx": 1227,
+        "negative_idx": 467,
+        "distance": 0.9534422159194946
+    },
+    {
+        "anchor_idx": 1228,
+        "negative_idx": 270,
+        "distance": 0.8840731978416443
+    },
+    {
+        "anchor_idx": 1229,
+        "negative_idx": 219,
+        "distance": 0.8412439227104187
+    },
+    {
+        "anchor_idx": 1230,
+        "negative_idx": 203,
+        "distance": 0.7289895415306091
+    },
+    {
+        "anchor_idx": 1231,
+        "negative_idx": 270,
+        "distance": 0.6833965182304382
+    },
+    {
+        "anchor_idx": 1232,
+        "negative_idx": 1145,
+        "distance": 0.849796712398529
+    },
+    {
+        "anchor_idx": 1233,
+        "negative_idx": 354,
+        "distance": 0.7451693415641785
+    },
+    {
+        "anchor_idx": 1234,
+        "negative_idx": 700,
+        "distance": 0.7887285947799683
+    },
+    {
+        "anchor_idx": 1235,
+        "negative_idx": 969,
+        "distance": 0.9791278839111328
+    },
+    {
+        "anchor_idx": 1236,
+        "negative_idx": 501,
+        "distance": 0.9573299884796143
+    },
+    {
+        "anchor_idx": 1237,
+        "negative_idx": 479,
+        "distance": 0.742813229560852
+    },
+    {
+        "anchor_idx": 1238,
+        "negative_idx": 721,
+        "distance": 0.8507823944091797
+    },
+    {
+        "anchor_idx": 1239,
+        "negative_idx": 922,
+        "distance": 0.9572896957397461
+    },
+    {
+        "anchor_idx": 1240,
+        "negative_idx": 955,
+        "distance": 0.8506650924682617
+    },
+    {
+        "anchor_idx": 1241,
+        "negative_idx": 974,
+        "distance": 0.7969000339508057
+    },
+    {
+        "anchor_idx": 1242,
+        "negative_idx": 578,
+        "distance": 0.8745929002761841
+    },
+    {
+        "anchor_idx": 1243,
+        "negative_idx": 159,
+        "distance": 0.7606481909751892
+    },
+    {
+        "anchor_idx": 1244,
+        "negative_idx": 1208,
+        "distance": 0.7596886157989502
+    },
+    {
+        "anchor_idx": 1245,
+        "negative_idx": 912,
+        "distance": 0.8091307878494263
+    },
+    {
+        "anchor_idx": 1246,
+        "negative_idx": 699,
+        "distance": 0.914853572845459
+    },
+    {
+        "anchor_idx": 1247,
+        "negative_idx": 188,
+        "distance": 0.8142046928405762
+    },
+    {
+        "anchor_idx": 1248,
+        "negative_idx": 393,
+        "distance": 0.7939865589141846
+    },
+    {
+        "anchor_idx": 1249,
+        "negative_idx": 929,
+        "distance": 1.1189714670181274
+    },
+    {
+        "anchor_idx": 1250,
+        "negative_idx": 1300,
+        "distance": 1.1235747337341309
+    },
+    {
+        "anchor_idx": 1251,
+        "negative_idx": 199,
+        "distance": 0.9169254899024963
+    },
+    {
+        "anchor_idx": 1252,
+        "negative_idx": 742,
+        "distance": 0.660669207572937
+    },
+    {
+        "anchor_idx": 1253,
+        "negative_idx": 721,
+        "distance": 0.7340912222862244
+    },
+    {
+        "anchor_idx": 1254,
+        "negative_idx": 938,
+        "distance": 0.8872237801551819
+    },
+    {
+        "anchor_idx": 1255,
+        "negative_idx": 435,
+        "distance": 0.9258148074150085
+    },
+    {
+        "anchor_idx": 1256,
+        "negative_idx": 790,
+        "distance": 0.8959619402885437
+    },
+    {
+        "anchor_idx": 1257,
+        "negative_idx": 388,
+        "distance": 0.8523092865943909
+    },
+    {
+        "anchor_idx": 1258,
+        "negative_idx": 523,
+        "distance": 0.7894554138183594
+    },
+    {
+        "anchor_idx": 1259,
+        "negative_idx": 386,
+        "distance": 0.9324733018875122
+    },
+    {
+        "anchor_idx": 1260,
+        "negative_idx": 49,
+        "distance": 0.8258452415466309
+    },
+    {
+        "anchor_idx": 1261,
+        "negative_idx": 977,
+        "distance": 0.9943329691886902
+    },
+    {
+        "anchor_idx": 1262,
+        "negative_idx": 1238,
+        "distance": 0.875637948513031
+    },
+    {
+        "anchor_idx": 1263,
+        "negative_idx": 619,
+        "distance": 0.8311470746994019
+    },
+    {
+        "anchor_idx": 1264,
+        "negative_idx": 106,
+        "distance": 0.8443847894668579
+    },
+    {
+        "anchor_idx": 1265,
+        "negative_idx": 622,
+        "distance": 0.8164212703704834
+    },
+    {
+        "anchor_idx": 1266,
+        "negative_idx": 1148,
+        "distance": 1.0880578756332397
+    },
+    {
+        "anchor_idx": 1267,
+        "negative_idx": 1148,
+        "distance": 1.1733438968658447
+    },
+    {
+        "anchor_idx": 1268,
+        "negative_idx": 642,
+        "distance": 1.2229477167129517
+    },
+    {
+        "anchor_idx": 1269,
+        "negative_idx": 713,
+        "distance": 0.9270797371864319
+    },
+    {
+        "anchor_idx": 1270,
+        "negative_idx": 622,
+        "distance": 0.996220052242279
+    },
+    {
+        "anchor_idx": 1271,
+        "negative_idx": 713,
+        "distance": 0.8942630887031555
+    },
+    {
+        "anchor_idx": 1272,
+        "negative_idx": 172,
+        "distance": 1.2967724800109863
+    },
+    {
+        "anchor_idx": 1273,
+        "negative_idx": 1022,
+        "distance": 0.7411117553710938
+    },
+    {
+        "anchor_idx": 1274,
+        "negative_idx": 197,
+        "distance": 0.7324904799461365
+    },
+    {
+        "anchor_idx": 1275,
+        "negative_idx": 999,
+        "distance": 1.1187076568603516
+    },
+    {
+        "anchor_idx": 1276,
+        "negative_idx": 1322,
+        "distance": 0.8769538998603821
+    },
+    {
+        "anchor_idx": 1277,
+        "negative_idx": 578,
+        "distance": 0.8499398827552795
+    },
+    {
+        "anchor_idx": 1278,
+        "negative_idx": 708,
+        "distance": 0.8974735736846924
+    },
+    {
+        "anchor_idx": 1279,
+        "negative_idx": 123,
+        "distance": 0.8391022086143494
+    },
+    {
+        "anchor_idx": 1280,
+        "negative_idx": 1175,
+        "distance": 0.9435784816741943
+    },
+    {
+        "anchor_idx": 1281,
+        "negative_idx": 149,
+        "distance": 0.7140869498252869
+    },
+    {
+        "anchor_idx": 1282,
+        "negative_idx": 23,
+        "distance": 0.8148535490036011
+    },
+    {
+        "anchor_idx": 1283,
+        "negative_idx": 523,
+        "distance": 0.7391199469566345
+    },
+    {
+        "anchor_idx": 1284,
+        "negative_idx": 1051,
+        "distance": 1.0947906970977783
+    },
+    {
+        "anchor_idx": 1285,
+        "negative_idx": 833,
+        "distance": 0.9124159216880798
+    },
+    {
+        "anchor_idx": 1286,
+        "negative_idx": 842,
+        "distance": 0.8296430706977844
+    },
+    {
+        "anchor_idx": 1287,
+        "negative_idx": 836,
+        "distance": 0.997529149055481
+    },
+    {
+        "anchor_idx": 1288,
+        "negative_idx": 256,
+        "distance": 0.7206689715385437
+    },
+    {
+        "anchor_idx": 1289,
+        "negative_idx": 600,
+        "distance": 0.8016364574432373
+    },
+    {
+        "anchor_idx": 1290,
+        "negative_idx": 328,
+        "distance": 0.8805150389671326
+    },
+    {
+        "anchor_idx": 1291,
+        "negative_idx": 825,
+        "distance": 1.2435016632080078
+    },
+    {
+        "anchor_idx": 1292,
+        "negative_idx": 295,
+        "distance": 0.920365571975708
+    },
+    {
+        "anchor_idx": 1293,
+        "negative_idx": 567,
+        "distance": 1.2924503087997437
+    },
+    {
+        "anchor_idx": 1294,
+        "negative_idx": 713,
+        "distance": 0.850326418876648
+    },
+    {
+        "anchor_idx": 1295,
+        "negative_idx": 167,
+        "distance": 1.0536839962005615
+    },
+    {
+        "anchor_idx": 1296,
+        "negative_idx": 375,
+        "distance": 0.8783276677131653
+    },
+    {
+        "anchor_idx": 1297,
+        "negative_idx": 37,
+        "distance": 0.9610827565193176
+    },
+    {
+        "anchor_idx": 1298,
+        "negative_idx": 335,
+        "distance": 0.9252533316612244
+    },
+    {
+        "anchor_idx": 1299,
+        "negative_idx": 1037,
+        "distance": 0.9353405833244324
+    },
+    {
+        "anchor_idx": 1300,
+        "negative_idx": 652,
+        "distance": 0.7314170598983765
+    },
+    {
+        "anchor_idx": 1301,
+        "negative_idx": 932,
+        "distance": 0.8413358926773071
+    },
+    {
+        "anchor_idx": 1302,
+        "negative_idx": 445,
+        "distance": 1.1031863689422607
+    },
+    {
+        "anchor_idx": 1303,
+        "negative_idx": 464,
+        "distance": 1.0663769245147705
+    },
+    {
+        "anchor_idx": 1304,
+        "negative_idx": 1230,
+        "distance": 0.8760291934013367
+    },
+    {
+        "anchor_idx": 1305,
+        "negative_idx": 1154,
+        "distance": 0.7777886390686035
+    },
+    {
+        "anchor_idx": 1306,
+        "negative_idx": 441,
+        "distance": 0.9000714421272278
+    },
+    {
+        "anchor_idx": 1307,
+        "negative_idx": 687,
+        "distance": 0.7456451058387756
+    },
+    {
+        "anchor_idx": 1308,
+        "negative_idx": 754,
+        "distance": 0.8751684427261353
+    },
+    {
+        "anchor_idx": 1309,
+        "negative_idx": 329,
+        "distance": 1.0096203088760376
+    },
+    {
+        "anchor_idx": 1310,
+        "negative_idx": 519,
+        "distance": 1.0477584600448608
+    },
+    {
+        "anchor_idx": 1311,
+        "negative_idx": 28,
+        "distance": 0.7854419946670532
+    },
+    {
+        "anchor_idx": 1312,
+        "negative_idx": 387,
+        "distance": 0.7399848103523254
+    },
+    {
+        "anchor_idx": 1313,
+        "negative_idx": 970,
+        "distance": 0.9684119820594788
+    },
+    {
+        "anchor_idx": 1314,
+        "negative_idx": 165,
+        "distance": 0.8248651027679443
+    },
+    {
+        "anchor_idx": 1315,
+        "negative_idx": 226,
+        "distance": 0.8319165706634521
+    },
+    {
+        "anchor_idx": 1316,
+        "negative_idx": 1300,
+        "distance": 0.8304420709609985
+    },
+    {
+        "anchor_idx": 1317,
+        "negative_idx": 470,
+        "distance": 0.9665132164955139
+    },
+    {
+        "anchor_idx": 1318,
+        "negative_idx": 775,
+        "distance": 0.884198009967804
+    },
+    {
+        "anchor_idx": 1319,
+        "negative_idx": 753,
+        "distance": 0.9423332214355469
+    },
+    {
+        "anchor_idx": 1320,
+        "negative_idx": 142,
+        "distance": 0.9970327615737915
+    },
+    {
+        "anchor_idx": 1321,
+        "negative_idx": 964,
+        "distance": 0.9481635093688965
+    },
+    {
+        "anchor_idx": 1322,
+        "negative_idx": 1276,
+        "distance": 0.8769529461860657
+    },
+    {
+        "anchor_idx": 1323,
+        "negative_idx": 161,
+        "distance": 0.7999598979949951
+    },
+    {
+        "anchor_idx": 1324,
+        "negative_idx": 106,
+        "distance": 0.7272404432296753
+    },
+    {
+        "anchor_idx": 1325,
+        "negative_idx": 1129,
+        "distance": 0.7655453681945801
+    },
+    {
+        "anchor_idx": 1326,
+        "negative_idx": 1148,
+        "distance": 0.9292142391204834
+    },
+    {
+        "anchor_idx": 1327,
+        "negative_idx": 893,
+        "distance": 0.8988960385322571
+    },
+    {
+        "anchor_idx": 1328,
+        "negative_idx": 342,
+        "distance": 0.8781362175941467
+    },
+    {
+        "anchor_idx": 1329,
+        "negative_idx": 910,
+        "distance": 0.9565284252166748
+    },
+    {
+        "anchor_idx": 1330,
+        "negative_idx": 740,
+        "distance": 0.7787061929702759
+    },
+    {
+        "anchor_idx": 1331,
+        "negative_idx": 295,
+        "distance": 0.9100818634033203
+    },
+    {
+        "anchor_idx": 1332,
+        "negative_idx": 1243,
+        "distance": 0.97743821144104
+    },
+    {
+        "anchor_idx": 1333,
+        "negative_idx": 74,
+        "distance": 0.9446848034858704
+    },
+    {
+        "anchor_idx": 1334,
+        "negative_idx": 765,
+        "distance": 0.9455674886703491
+    },
+    {
+        "anchor_idx": 1335,
+        "negative_idx": 300,
+        "distance": 0.7363036274909973
+    },
+    {
+        "anchor_idx": 1336,
+        "negative_idx": 482,
+        "distance": 1.0854614973068237
+    },
+    {
+        "anchor_idx": 1337,
+        "negative_idx": 728,
+        "distance": 1.1649917364120483
+    },
+    {
+        "anchor_idx": 1338,
+        "negative_idx": 907,
+        "distance": 0.9329939484596252
+    },
+    {
+        "anchor_idx": 1339,
+        "negative_idx": 211,
+        "distance": 0.801642119884491
+    },
+    {
+        "anchor_idx": 1340,
+        "negative_idx": 1185,
+        "distance": 1.0718605518341064
+    },
+    {
+        "anchor_idx": 1341,
+        "negative_idx": 144,
+        "distance": 0.7511140704154968
+    },
+    {
+        "anchor_idx": 1342,
+        "negative_idx": 1242,
+        "distance": 0.9483014345169067
+    },
+    {
+        "anchor_idx": 1343,
+        "negative_idx": 213,
+        "distance": 0.7911760807037354
+    },
+    {
+        "anchor_idx": 1344,
+        "negative_idx": 233,
+        "distance": 0.881889820098877
+    },
+    {
+        "anchor_idx": 1345,
+        "negative_idx": 597,
+        "distance": 0.7779248356819153
+    },
+    {
+        "anchor_idx": 1346,
+        "negative_idx": 329,
+        "distance": 0.8446869254112244
+    },
+    {
+        "anchor_idx": 1347,
+        "negative_idx": 27,
+        "distance": 0.7761549949645996
+    },
+    {
+        "anchor_idx": 1348,
+        "negative_idx": 786,
+        "distance": 0.8322353363037109
+    }
+]
